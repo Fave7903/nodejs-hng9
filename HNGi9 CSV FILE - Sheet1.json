@@ -1,0 +1,4202 @@
+[
+  {
+    "TEAM NAMES": "TEAM BEVEL",
+    "Series Number": "1",
+    "Filename": "adewale-the-amebo",
+    "Name": "adewale the amebo",
+    "Description": "Adewale likes to be in everyone's business.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: black; teeth: none; clothing: red; accessories: mask; expression: none; strength: powerful; weakness: curiosity;",
+    "UUID": "cad316c3-37f8-4b27-9f53-9d803bfcfee7"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "2",
+    "Filename": "alli-the-queeny",
+    "Name": "alli the queeny",
+    "Description": "Alli is an LGBT Stan.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: white; teeth: none; clothing: yellow; accessories: mask; expression: none: strength: powerful; weakness: none;",
+    "UUID": "a57ecda4-a26f-4e97-a757-e1800af39aab"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "3",
+    "Filename": "aminat-the-snnobish",
+    "Name": "aminat the snnobish",
+    "Description": "Aminat never really wants to talk to anyone.",
+    "Gender": "Female",
+    "attributes": "hair: brown bun; eyes: none; teeth: none; clothing: yellow; accessories: glasses; expression: blank; strength: none; weakness: attitude;",
+    "UUID": "0e37ed0d-3e84-4f32-a91f-ec9c4ba8c7de"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "4",
+    "Filename": "aminu-the-carpenter",
+    "Name": "aminu the carpenter",
+    "Description": "Aminu's hands are blessed; he makes the best furniture in the whole of Kano.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: blue; teeth: none; clothing: yellow; accessories: mask; expression: none; strength: powerful; weakness: none;",
+    "UUID": "4f30b751-96e7-40fe-97fd-e3d44973ff2f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "5",
+    "Filename": "chibuike-the-kudibag",
+    "Name": "chibuike the kudibag",
+    "Description": "Chibuike is too rich. Everyone wonders how he got it.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: black; teeth: none; clothing: blue; accessories: mask; expression: none; strength: hustler; weakness: none;",
+    "UUID": "5ce854f2-7ac1-46fd-b3fe-57583935d1e5"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "6",
+    "Filename": "chidinma-the-model",
+    "Name": "chidinma the model",
+    "Description": "From Paris' runways; to London's streets; she's always in demand.",
+    "Gender": "Female",
+    "attributes": "hair: brown hair; eyes: none; teeth: none; clothing: multicolored; accessories: glasses; expression: none; strength: hardworking; weakness: none;",
+    "UUID": "c98db72e-49ac-4ca6-89d5-e00f5fbbcc45"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "7",
+    "Filename": "chioma-pretty- girl",
+    "Name": "chioma pretty girl",
+    "Description": "Chioma's face card is a 100.",
+    "Gender": "Female",
+    "attributes": "hair: dreads; eyes: none; teeth: none; clothing: multicolored; accessories: glasses; expression: none; strength: none; weakness: none;",
+    "UUID": "182ea888-a85b-42ca-ad73-ed4f8f9aa5c7"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "8",
+    "Filename": "damilare-the-handsome",
+    "Name": "damilare the handsome",
+    "Description": "He's a fine boy; proper eye candy.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: white; teeth: none; clothing: yellow; accessories: mask; expression: none; strength: none; weakness: none;",
+    "UUID": "27eca2dc-d7df-474a-8f8f-1858152c711e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "9",
+    "Filename": "ebiowie-the-planter",
+    "Name": "ebiowie the planter",
+    "Description": "Ebiowei has a reputation for nurturing plants.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: none; teeth: none; clothing: multicolored; accessories: none; expression: none; strength: powerful; weakness: none;",
+    "UUID": "f1df8270-4d60-4bd4-8959-ba7c384db5c4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "10",
+    "Filename": "emeka-the-businessman",
+    "Name": "emeka the businessman",
+    "Description": "Emeka only cares about containers. No time to waste.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: white; teeth: none; clothing: orange; accessories: mask; expression: none; strength: hard worker; weakness: none;",
+    "UUID": "9b3d75da-4887-4089-aee4-50de3954fdc9"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "11",
+    "Filename": "gbeminyi-the-monk",
+    "Name": "gbeminyi the monk",
+    "Description": "He lives in a monastery off the coast. No one has heard him speak in years.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: blue; teeth: none; clothing: yellow; accessories: mask; expression: none; strength: none; weakness: none;",
+    "UUID": "c8b1fd1d-8551-4bb4-8dc4-923a9aeb39fb"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "12",
+    "Filename": "henry-the-sportsman",
+    "Name": "henry the sportsman",
+    "Description": "He's played every sport known to man. Even cricket.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: yellow; teeth: none; clothing: multicolored; accessories: mask; expression: none; strength: agility; weakness: none;",
+    "UUID": "e1225451-bfdf-4a1f-8d37-9cce3a0bd67b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "13",
+    "Filename": "mayowa-the-smallie",
+    "Name": "mayowa the smallie",
+    "Description": "Mayowa is so small but everyone loves him still.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: blue; teeth: none; clothing: multicolored; accessories: mask; expression: none; strength: none; weakness: none;",
+    "UUID": "dfbb4163-df24-4d54-b74c-6218a68df8bd"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "14",
+    "Filename": "muyiwa-the-stylish",
+    "Name": "muyiwa the stylish",
+    "Description": "Muyiwa has a motto which is never to be caught unfresh.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: ash; teeth: none; clothing: multicolored; accessories: mask; expression: none; strength: creativity; weakness: none;",
+    "UUID": "dcf9d5a0-57b7-4126-a05e-6c8f1045d3f7"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "15",
+    "Filename": "nina-paper-chaser",
+    "Name": "nina paper chaser",
+    "Description": "Nina loves money. It's all she dreams of.",
+    "Gender": "Female",
+    "attributes": "hair: brown double bun; eyes: none; teeth: none; clothing: animal print; accessories: glasses; expression: none; strength: hustler; weakness: none;",
+    "UUID": "59524227-dc52-407c-8cca-e9e8c5fb3018"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "16",
+    "Filename": "oluwaseun-spicy",
+    "Name": "oluwaseun spicy",
+    "Description": "He loves spicy foods. He cooks pepper and sprinkles rice on top.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: black; teeth: none; clothing: yellow and purple agbada; accessories: mask; expression: none strength: none; weakness: none;",
+    "UUID": "808f7007-6552-4efa-bd13-4b7c337b102b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "17",
+    "Filename": "sesan-the-smartie",
+    "Name": "sesan the smartie",
+    "Description": "Sesan always comes first in competitions.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: blue; teeth: none; clothing: orange; accessories: mask; expression: none; strength: intelligence; weakness: none;",
+    "UUID": "ba3edda7-8940-4ca4-97ba-826398d5909f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "18",
+    "Filename": "tiwa-london",
+    "Name": "tiwa london",
+    "Description": "If she says she's in London and you see her; you're in London too.",
+    "Gender": "Female",
+    "attributes": "hair: braids; eyes: none; teeth: none; clothing: black top; accessories: glasses; expression: none; strength: none; weakness: untruthfulness;",
+    "UUID": "78da7aeb-8352-4e25-89ac-dc48b5984089"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "19",
+    "Filename": "tunde-yoruba-demon",
+    "Name": "tunde yoruba demon",
+    "Description": "Tunde derives joy in breaking hearts. It's a lifestyle.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: white; teeth: none; clothing: purple and yellow agbada; accessories: mask; expression: none; strength: none; weakness: promiscuity;",
+    "UUID": "53b46bd7-a537-402b-b249-0b4074a8faae"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "20",
+    "Filename": "yakubu-the-zombie",
+    "Name": "yakubu the zombie",
+    "Description": "Yakubu earned his zombie title because na only dust full him head.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: black; teeth: none; clothing: green and purple agbada; accessories: mask; expression: none; strength:none; weakness:slow to understand things;",
+    "UUID": "4adb6781-1614-424e-8f77-fe59ffca2209"
+  },
+  {
+    "TEAM NAMES": "TEAM CLUTCH",
+    "Series Number": "21",
+    "Filename": "abdul-the-vibe",
+    "Name": "abdul the vibe",
+    "Description": "Abdul the life of the party and can never be caught un-fresh.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: none; clothings: purple and yellow kaftan; accessories: cap; expression: happy; strength: strong; weakness: no limitation;",
+    "UUID": "770f817a-9d9a-4772-9a91-e66dd9d03470"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "22",
+    "Filename": "emeka-the -clown",
+    "Name": "emeka the clown",
+    "Description": "Emeka the funny man; always making silly joke.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: none; clothings: yellow and black ankara; accessories: cap; expression: straight face; strength: funny; weakness: little physique;",
+    "UUID": "78810fa6-a7ef-4d83-bf57-caf49db4ee69"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "23",
+    "Filename": "salam-the-odogwu",
+    "Name": "salam the odogwu",
+    "Description": "Salam is a big time textile marketer always sourcing for quality materials.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: brown; teeth: none; clothings: wine and yellow; accessories: yayada cap; expression: happy; strength: influence; weakness: impatience ;",
+    "UUID": "f2957ded-022c-4b07-92c6-b345d4816a67"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "24",
+    "Filename": "charles-the-exporter",
+    "Name": "charles the exporter",
+    "Description": "Charles a business man an importer and exporter never to be caught idle.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: grey; teeth: none; clothings: orange and blue; accessories: okpu ozo cap; expression: happy; strength: influential; weakness: incessant;",
+    "UUID": "09395e76-19ed-4852-8748-795ee7496a8e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "25",
+    "Filename": "wole-the-pimp",
+    "Name": "wole the pimp",
+    "Description": "Wole knows people and his way around his city.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: two white teeth with diastema; clothings :yellow dashiki; accessories: yori yori; expression: happy; strength: strong; weakness: promiscuous;",
+    "UUID": "4d94d4f7-9b69-4e43-9db1-1fe83df92857"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "26",
+    "Filename": "saro-the-baller",
+    "Name": "saro the baller",
+    "Description": "Saro is a baller and he is always ready to turn-up",
+    "Gender": "Male",
+    "attributes": "hair: orange afro; eyes: blue; teeth: two white teeth with diastema; clothings: black and yellow kente; accessories: none; expression: angry; strength: strong; weakness: insatiable;",
+    "UUID": "d35a7514-8996-42fb-a5f2-5a603ec679c5"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "27",
+    "Filename": "ade-omo-yoruba",
+    "Name": "ade omo yoruba",
+    "Description": "Ade is an influential man and he is revered in his town.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: blue; teeth: complete white teeth and a gold tooth; clothings: black and yellow kente; accessories: wine cap; expression:happy; strength: hardworking; weakness: procrastination;",
+    "UUID": "92984fa0-310b-4377-8a10-15965d044383"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "28",
+    "Filename": "shola-cool-kid",
+    "Name": "shola cool kid",
+    "Description": "Shola prefers to be alone because he hates stress.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: none; teeth: none clothings: yellow t-shirt and blue dongaris; accessories: red facecap; expression: playful; strength: fun; weakness: playful",
+    "UUID": "3ac5c186-bc14-4eb6-8567-cc818465a64f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "29",
+    "Filename": "charlie-the-smoker",
+    "Name": "charlie the smoker",
+    "Description": "Charlie uses smoking as a coping mechanism.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: none; clothings: black shirt with lion prints; accessories: blue cap; expression: happy; strength: nice; weakness: gullible;",
+    "UUID": "71a0aa22-d111-43b7-8484-43d87310bc42"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "30",
+    "Filename": "femi-the-badguy",
+    "Name": "femi the badguy",
+    "Description": "Femi is one of the fliest guys in Lagos.",
+    "Gender": "Male",
+    "attributes": "hair: orange; eyes: black; teeth: none; clothings: white t-shirt and blue dongaris; accessories: smoking pipe; expression: unbothered; strength: fearless; weakness: intolerance;",
+    "UUID": "e493e3fb-a8a0-455a-854f-0f6474bbc69f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "31",
+    "Filename": "sinzu-money",
+    "Name": "sinzu money",
+    "Description": "Sinzu loves spending money on flashy things.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: blue; teeth: white complete teeth and a brown tooth; clothings: purple and yellow kaftan; accessories: green-stripped fila cap; expression: strength; strength: generous; weakness: aggressive ;",
+    "UUID": "942f8347-9932-4331-bd15-d0f3a048b54f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "32",
+    "Filename": "obinna-the-palmwine tapper",
+    "Name": "obinna the palmwine tapper",
+    "Description": "Obinna taps palmwine for a living.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: none; clothings: yellow; black and a touch of pink ankara; accessories: cap; expression: happy; strength: contentment; weakness: naive;",
+    "UUID": "0f1af056-2548-4407-bed4-abc11deae05d"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "33",
+    "Filename": "aminu-maikudi",
+    "Name": "aminu maikudi",
+    "Description": "Aminu is a wealthy man from a family with generational wealth.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: none; clothings: maroon and yellow agbada; accessories: cap; expression: unbothered; strength: confidence; weakness: selfishness;",
+    "UUID": "0129e7a5-e3d0-4675-92d0-1a1e55d11612"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "34",
+    "Filename": "sabinus-the-town crier",
+    "Name": "sabinus the town crier",
+    "Description": "Sabinus delivers messages to his town people.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: two white teeth with diastema; clothings: orange ankara with touches of blue; accessories: cap; expression: happy; strength: dexterity; weakness: impatience;",
+    "UUID": "01d4ce96-818e-44b1-8813-68a7d34b35ba"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "35",
+    "Filename": "adisa-ibadan",
+    "Name": "adisa ibadan",
+    "Description": "Adisa is an elegant man and he is adored by his people.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: none; clothings: kente accessories:abeti-aja cap; expression: mischievous; strength: independent; weakness: bossy;",
+    "UUID": "3a925f27-35f6-4dbf-9960-c6527fae5f3e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "36",
+    "Filename": "linda-the-navigator",
+    "Name": "linda the navigator",
+    "Description": "Linda knows how to make a way for herself and the people around her.",
+    "Gender": "Female",
+    "attributes": "hair: blonde; eyes: none; teeth: none; clothings:multicolored; accessories: glasses; expression: confused; strength: creative; weakness: insecure;",
+    "UUID": "71f335a6-5a4f-4410-9cea-179336f0e498"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "37",
+    "Filename": "kemi-the-iron lady",
+    "Name": "kemi the iron lady",
+    "Description": "Kemi the strongest woman known to the town of Igbede people.",
+    "Gender": "Female",
+    "attributes": "hair: ginger; eyes: none; teeth: none; clothings: ankara; accessories:glasses and a pipe; expression: cool; strength: disciplined; weakness: perfectionist ;",
+    "UUID": "35b11a31-5b92-49f4-8fb1-30f255d22054"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "38",
+    "Filename": "mercy-the-sassy lady",
+    "Name": "mercy the sassy lady",
+    "Description": "Mercy is a confident woman and never hesistate to show it.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: none; teeth:none; clothings: ankara; accessories: glasses; expression: sassy; strenght: creative; weakness: sensitive;",
+    "UUID": "7a3c70ac-927f-4a63-a3df-ab86dd27cd0f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "39",
+    "Filename": "sandra-money",
+    "Name": "sandra money",
+    "Description": "Sandra likes getting and spending money.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: none; teeth:none; clothings:yellow and black; accessories: glasses; expression: confused; strength: brave; weakness: overthinker;",
+    "UUID": "1bd95fb0-7b2e-4354-bebd-22f9cf70a1ca"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "40",
+    "Filename": "bimpe-the-fashionista",
+    "Name": "bimpe the fashionista",
+    "Description": "Bimpe loves wearing trendy clothes and looking gorgeous.",
+    "Gender": "Female",
+    "attributes": "hair: blonde; eyes: none; teeth:gap teeth; clothings: black cold shoulder shirt; accessories: glasses; expression: shocked; strength: intelligent; weakness: procrastination",
+    "UUID": "92b548b7-998b-46b6-8198-80d407209483"
+  },
+  {
+    "TEAM NAMES": "TEAM ENGINE",
+    "Series Number": "41",
+    "Filename": "kim-rich-aunty",
+    "Name": "kim rich aunty",
+    "Description": "She loves spoiling her nieces and nephew.",
+    "Gender": "Female",
+    "attributes": "hair: pink; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength:brave; weakness:food;",
+    "UUID": "3344a73c-f15e-4afd-a1b2-3199e27eb08f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "42",
+    "Filename": "barbra-stark",
+    "Name": "barbra stark",
+    "Description": "She loves fine dining and spends time with family.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength:brave; weakness:food;",
+    "UUID": "4f31fd99-4918-42a9-a112-fa60ef36d5c6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "43",
+    "Filename": "jean-art-dolger",
+    "Name": "jean art dolger",
+    "Description": "Loves collecting art for charity.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: creative; weakness: food;",
+    "UUID": "5e1105d9-e485-462d-a5bf-1eb931976b13"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "44",
+    "Filename": "flora-burger- eater",
+    "Name": "flora burger eater",
+    "Description": "She loves eating burgers.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: gap; clothing: stripes; accessories: none; expression: frowning; strength: prayerful; weakness: food;",
+    "UUID": "054dffd1-cdff-417b-b6c2-a679dabd087b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "45",
+    "Filename": "jessie-lord-rings",
+    "Name": "jessie lord rings",
+    "Description": "She loves her  (precious) jewelry.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: satin; accessories: none; expression: smiling; strength: kind; weakness: shy;",
+    "UUID": "caacabe1-0abc-43af-92e2-2231248bff93"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "46",
+    "Filename": "pinky-monky-ponk",
+    "Name": "pinky monky ponk",
+    "Description": "She love to dance the honky tonk.",
+    "Gender": "Female",
+    "attributes": "hair: maroon; eyes: blue; teeth: none; clothing: linen; accessories: none; expression: smiling; strength: brave; weakness: chips;",
+    "UUID": "bd6a4b38-543e-40fa-9153-f7e1a947ebb1"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "47",
+    "Filename": "wanjiru-hippie-glitter",
+    "Name": "wanjiru hippie glitter",
+    "Description": "A hippie that loves her glitters.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: wool; accessories: none; expression: smiling; strength: none; weakness: babies;",
+    "UUID": "683f0d27-3cb4-4948-b1b5-09f10bee575a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "48",
+    "Filename": "njoki-binary-coder",
+    "Name": "njoki binary coder",
+    "Description": "She codes with the best language and tops the set.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: none; weakness: none;",
+    "UUID": "9b59bdb4-0c6c-4107-9d72-6d38d308edb4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "49",
+    "Filename": "wangu-calaba-hustler",
+    "Name": "wangu calaba hustler",
+    "Description": "She is a passionate hustler you should be careful with her.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: flying;",
+    "UUID": "67f7da93-3925-4def-b660-58f558c14a19"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "50",
+    "Filename": "lulu-dey-kpako",
+    "Name": "lulu dey kpako",
+    "Description": "She's is as enthusiastic as she is beautiful.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: loving; weakness: makeup;",
+    "UUID": "23b6c38f-ab84-4565-bfe9-d9eb019c9f29"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "51",
+    "Filename": "kiki-cala-flier",
+    "Name": "kiki cala flier",
+    "Description": "She flies first class and gets the best deals.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: kittens;",
+    "UUID": "d24aefff-c9fc-4ea9-a7cf-1b741076c822"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "52",
+    "Filename": "purity-nft -investor",
+    "Name": "purity nft investor",
+    "Description": "She is an angel investor looking for the next big thing.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: clothes;",
+    "UUID": "ee86ef77-4793-411a-88d3-ea54d84f6b24"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "53",
+    "Filename": "june-binary-monk",
+    "Name": "june binary monk",
+    "Description": "She has a twin from Tibet and they always play together .",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: money;",
+    "UUID": "102c4cdb-f812-44fd-bf47-5065284c6075"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "54",
+    "Filename": "aisha-flying-damsel",
+    "Name": "aisha flying damsel",
+    "Description": "She is always a damsel in distress and loves to fly.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: food;",
+    "UUID": "c4071af3-b49e-4ad6-898b-7828f90465fb"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "55",
+    "Filename": "bobo-crypto-lovely",
+    "Name": "bobo crypto lovely",
+    "Description": "She is a crypto guru you can trust all through.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: water;",
+    "UUID": "427ea0f5-30a3-4d70-a5bd-a6106409b83c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "56",
+    "Filename": "nell-light -embrace",
+    "Name": "nell light embrace",
+    "Description": "She is an empathy ready with a kind word or hug.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: love;",
+    "UUID": "9dfe30b4-c71a-471c-8091-f5c4a238eed8"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "57",
+    "Filename": "rachel-mood-silent",
+    "Name": "rachel mood silent",
+    "Description": "Introvert  to the core a mysterious lady.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: walls;",
+    "UUID": "11450acd-f0d7-406f-bc18-bdb680404845"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "58",
+    "Filename": "nana-reflector-agent",
+    "Name": "nana reflector agent",
+    "Description": "She loves her chrome fashion style.",
+    "Gender": "Female",
+    "attributes": "hair: pink; eyes: blue; teeth: none; clothing: ankara; accessories:none; expression: smiling; strength: brave; weakness: shy;",
+    "UUID": "63bda633-bfca-4b28-823f-7772936b4103"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "59",
+    "Filename": "bree-busy-gossip",
+    "Name": "bree busy gossip",
+    "Description": "Never whisper your secrets to her except you want the world to know.",
+    "Gender": "Female",
+    "attributes": "hair: blue; eyes:white; teeth: none; clothing: glitter; accessories:none; expression: frowm; strength:goodlistener; weakness:height;",
+    "UUID": "4f5898d9-fc99-4053-a56c-b2ec1ef41347"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "60",
+    "Filename": "jude-shadow-fighter",
+    "Name": "jude shadow fighter",
+    "Description": "A ninja warrior; the last samurai standing.",
+    "Gender": "Female",
+    "attributes": "hair: white; eyes:brown; teeth: none; clothing: ankara; accessories:chain; expression: smiling; strength:brave; weakness:water;",
+    "UUID": "a47b2ed7-d4aa-4404-ac40-0ecea464cf3f"
+  },
+  {
+    "TEAM NAMES": "TEAM GRIT",
+    "Series Number": "61",
+    "Filename": "toy-soldier",
+    "Name": "toy soldier",
+    "Description": "A man stronger than an army.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: closed; teeth: none; clothing: overall; accessories: nose mask; expression: happy; strengths: powerful; weakness: sentimental;",
+    "UUID": "fc8ea3ac-59d1-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "62",
+    "Filename": "pipey-rivers",
+    "Name": "pipey rivers",
+    "Description": "A man who loves the water so much and fixes it's path.",
+    "Gender": "Male",
+    "attributes": "hair:bald; eyes: opened; teeth:none; clothing: overall; accessories: nose mask; strengths: calculative; weakness: public speaking;",
+    "UUID": "58f69cae-59d1-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "63",
+    "Filename": "phiri-of-zambia",
+    "Name": "phiri of zambia",
+    "Description": "An african woman with strength and beauty.",
+    "Gender": "Female",
+    "attributes": "hair: purple buns; eyes:nose; teeth: none; clothing: adire; accessories: sunglasses; expression: jiggy; strengths: free spirit; weakness: blind ;",
+    "UUID": "24b537fa-59d3-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "64",
+    "Filename": "patrick-of-bikinibottom",
+    "Name": "patrick of bikinibottom",
+    "Description": "A white man who loves the african culture and associates with their dressing.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: kente; accessories: nose mask; expression: confused; strengths: adaptation; weakness: fluency;",
+    "UUID": "064c7b84-59d3-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "65",
+    "Filename": "nobuhle-of-zulu",
+    "Name": "nobuhle of zulu",
+    "Description": "A woman; well endowed with beauty.",
+    "Gender": "Female",
+    "attributes": "hair: brown bun; eyes: none; teeth: none; clothing: iqoyi; accessories: sunglasses; expression: astonished; strengths: cool headed; weakness: pressure;",
+    "UUID": "1ee5b1ce-59d3-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "66",
+    "Filename": "nkosazana-of-xhosa",
+    "Name": "nkosazana of xhosa",
+    "Description": "An african princess; always proud of her culture.",
+    "Gender": "Female",
+    "attributes": "hair: ginger afro; eyes:none; teeth: gap teeth; clothing:umbaco; accessories: sunglasses; expression: fufilled; strengths: confidence; weakness: endurance;",
+    "UUID": "2f1a1724-59d3-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "67",
+    "Filename": "mandla-of-zulu",
+    "Name": "mandla of zulu",
+    "Description": "A simple and introverted guy who keeps to himself.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: eshowe; accessories: nose mask; expression: irritated; strength: strong willed; weakness: relationship;",
+    "UUID": "d04553b2-59d7-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "68",
+    "Filename": "john-doe",
+    "Name": "john doe",
+    "Description": "A principled guy who is conscious of his health and ensures protection from infection.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: ankara; accessories: nose mask; expressions: cold; strength: cleaniness; weakness: perfectionist;",
+    "UUID": "5d19795e-59d2-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "69",
+    "Filename": "ghost-of-power",
+    "Name": "ghost of power",
+    "Description": "A woman; stronger than ten men combined.",
+    "Gender": "Female",
+    "attributes": "hair: black tied with scalf; eyes: none; teeth: none; clothing: iqoyi; accessories: sunglasses and pipe; espression: ruthless; strength: badass; weakness: cancer;",
+    "UUID": "29c764ca-59d3-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "70",
+    "Filename": "freida",
+    "Name": "freida",
+    "Description": "A man who is always peaceful.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: closed; teeth: none; clothing: overall; accessories: nose mask; expression: calm; strength: peaceful; weakness: anger;",
+    "UUID": "ee671c4a-59d2-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "71",
+    "Filename": "flamboyant-tree",
+    "Name": "flamboyant tree",
+    "Description": "A beautiful african woman; billionaire in the making.",
+    "Gender": "Female",
+    "attributes": "hair: one bun dark brown; eyes: none; teeth: none; clothing: kente; accessories: sunglasses; expression: happy; strength: beauty; weakness: lover girl;",
+    "UUID": "380e4990-59d3-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "72",
+    "Filename": "david-of-accra",
+    "Name": "david of accra",
+    "Description": "A combatant who fights and defends his people",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: kente; accessories: nose mask; expression: angry; strength: super powerful; weakness: sleeping;",
+    "UUID": "1c1ef1b4-59d1-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "73",
+    "Filename": "cally-lily",
+    "Name": "cally lily",
+    "Description": "A man who is a breathe of fresh air.",
+    "Gender": "Male",
+    "attributes": "hair: male; eyes: opened; teeth: none; clothing: overall; accessories: nose mask; expression: confused; strength: calm; weakness: sun;",
+    "UUID": "82bba87c-59d1-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "74",
+    "Filename": "bubune-of-accra",
+    "Name": "bubune of accra",
+    "Description": "A man with honor; always conscious of his health.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: closed; teeth: none; clothing: kente; accessories: nose mask; expression: happy;  strength: clean; weakness: foodie;",
+    "UUID": "faa4b530-59d2-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "75",
+    "Filename": "bediako-of-accra",
+    "Name": "bediako of accra",
+    "Description": "A strong man; always ready to fight for what is right.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: balck with kente; accessories: nose mask; expression: suspicious;  strength: activist; weakness: irrational;",
+    "UUID": "fb6e8222-59d0-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "76",
+    "Filename": "avatar-aang",
+    "Name": "avatar aang",
+    "Description": "A man who is ready to save the world.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: kaftan; accessories: nose mask; expression: soothing; strength: mind games; weakness: insomia;",
+    "UUID": "169f93a0-59d2-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "77",
+    "Filename": "argus-greek",
+    "Name": "argus greek",
+    "Description": "A man who you will always find on the look out.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: overall; accessories: nose mask; expression: suspicious; strength: strong;  weakness: lateness;",
+    "UUID": "e7f26b26-59d2-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "78",
+    "Filename": "amahle-of-zulu",
+    "Name": "amahle of zulu",
+    "Description": "A traditional man; feeling fulfilled.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: closed; teeth: none; clothing: ankara print; accessories: nose mask; expression: excited; strength: conversationist; weakness: traditionalist;",
+    "UUID": "169f93a0-59d2-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "79",
+    "Filename": "agnar-ole",
+    "Name": "agnar ole",
+    "Description": "A man who feels like an outcast and always has a battle with his mind.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: overall; accessories: nose mask; expression: furious; strength: strong willed; weakness: crying;",
+    "UUID": "f3f11fd0-59d2-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "80",
+    "Filename": "adom-kulu",
+    "Name": "adom kulu",
+    "Description": "A ghanaian model; proud of his culture.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: kente; accessories: nose mask; expression: irritated;  strength: height;  weakness: pride;",
+    "UUID": "00f6589e-59d3-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "TEAM PRYBAR",
+    "Series Number": "81",
+    "Filename": "segun-baller",
+    "Name": "segun baller",
+    "Description": "A man who loves to have fun.",
+    "Gender": "Male",
+    "attributes": "hair: black; eyes: black; teeth: none; clothing: kente; accessories: glasses; expression: cool; strength: jovial; weakness: nonchalant;",
+    "UUID": "58ac5cf6-b644-41c6-af79-ec9aa5f6bdd1"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "82",
+    "Filename": "bolanle-pepper-dem",
+    "Name": "bolanle pepper dem",
+    "Description": "A lady that loves to show off.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: back; teeth: none; clothing: kente; accessories: glasses; expression: proud; strength: strong; weakness: big spender;",
+    "UUID": "46966104-775b-4443-90bb-b35afd121653"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "83",
+    "Filename": "tayo-tailor",
+    "Name": "tayo tailor",
+    "Description": "A professional fashion designer.",
+    "Gender": "Male",
+    "attributes": "hair: black; eyes: black; teeth: none; clothing: orange shirt; accessories: glasses; expression: inquisitive; strength: creativity; weakness: opinionated;",
+    "UUID": "70828783-ac38-48cf-b966-cfebc92ebd86"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "84",
+    "Filename": "ajasco-comedian",
+    "Name": "ajasco comedian",
+    "Description": "A newbie comedian.",
+    "Gender": "Male",
+    "attributes": "hair: black; eyes: black; teeth: none; clothing: green shirt; accessories: glasses; expression: bold; strength: optimistic; weakness: unobservant;",
+    "UUID": "8bebdb3a-f0a8-47ba-892f-39aa275fbd0d"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "85",
+    "Filename": "tobi-babyboy",
+    "Name": "tobi babyboy",
+    "Description": "A guy who does not like stress.",
+    "Gender": "Male",
+    "attributes": "hair: black; eyes: black; teeth: none; clothing: white shirt; accessories: glasses; expression: friendly; strength: outgoing; weakness: lacks boundaries;",
+    "UUID": "3da592d4-5dec-4bc5-8412-f1b2a0269f95"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "86",
+    "Filename": "esther-sassy",
+    "Name": "esther sassy",
+    "Description": "A rude lady.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: grey; teeth: none; clothing: animal print; accessories: necklace & earrings; expression: bold; strength: confident; weakness: judgemental;",
+    "UUID": "0642a25a-966d-446f-b021-a6d18e7fa0c5"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "87",
+    "Filename": "ozo-fineboi",
+    "Name": "ozo fineboi",
+    "Description": "A charming person.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: blue; teeth: none; clothing: aztec print blouse;  accessories: choker & hookah; expression: blank; strength: charismatic; weakness: proud;",
+    "UUID": ""
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "88",
+    "Filename": "ade-party-girl",
+    "Name": "ade party girl",
+    "Description": "The life of every party.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: blue; teeth: gap-tooth; clothing: one-sleeved blue top; accessories: none; expression: scary; strength: adventurous; weakness: impulsive;",
+    "UUID": "7e3db30c-9faf-430d-ab48-b854fe0456b9"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "89",
+    "Filename": "john-casco",
+    "Name": "john casco",
+    "Description": "A very observant person.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: blue; teeth: none  clothing: one-sleeved ankara top; accessories: earrings & necklace  expression: shocked; strength: unpredictable; weakness: loner;",
+    "UUID": "2eff88ef-5bc2-4779-917a-533e952e2953"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "90",
+    "Filename": "agha-uwa",
+    "Name": "agha uwa",
+    "Description": "A woman of high social class.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: blue; teeth: none; clothing: ankara top with strap & full sleeve; accessories: earrings; expression: sad; strength: daring; weakness: loner;",
+    "UUID": "8478a002-1eba-4a05-8b98-7170c6e39254"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "91",
+    "Filename": "udeme-great",
+    "Name": "udeme great",
+    "Description": "A lady given to adventures.",
+    "Gender": "Female",
+    "attributes": "hair: purple; eyes: black; teeth: none  clothing: ankara top with blue sleeves; accessories: green necklace & green earrings  expression: clueless; strength: decisive; weakness: stubborn;",
+    "UUID": "d1476409-6f8b-4be9-8c93-24d9123749c5"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "92",
+    "Filename": "femi-tech-bro",
+    "Name": "femi tech bro",
+    "Description": "A rookie in the tech industry.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: black; teeth: none; clothing: ankara top with blue suspenders; accessories: green necklace; expression: mischievous; strength: creativity; weakness: procastination;",
+    "UUID": "ba3ec22a-13d5-4e19-9b7f-aac764fda28c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "93",
+    "Filename": "sai-baba",
+    "Name": "sai baba",
+    "Description": "A leader of a third-world country",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: black; teeth: none; clothing: off-shoulder ankara top; accessories: earrings & necklace; expression: anxious; strength: trend spotter; weakness: distracted easily;",
+    "UUID": "fdfff369-5b57-4612-9f89-f5d408f24a35"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "94",
+    "Filename": "omo-pastor",
+    "Name": "omo pastor",
+    "Description": "A devout christian.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: black; teeth: none; clothing: spaghetti strap ankara top; accessories: green earrings & green necklace; expression: happy; strength: happiness; weakness: too emotional;",
+    "UUID": "49e09559-61a6-41ff-811a-272721a7475c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "95",
+    "Filename": "obi-container",
+    "Name": "obi container",
+    "Description": "A rich south-easterner.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: black; teeth: none; clothing: animal print top; accessories: green necklace; expression: surprised; strength: wealthy; weakness: risk taker;",
+    "UUID": "4b64cf48-94fa-4aed-8cf2-452974b48ee3"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "96",
+    "Filename": "erigga-international",
+    "Name": "erigga international",
+    "Description": "Superstar from South-South.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: black; teeth: none; clothing: half ankara; accessories: green necklace & red scrunchie; expression: curious; strength: talented; weakness: overconfident;",
+    "UUID": "3ac39a5e-7b0c-4371-b0c8-7cb4b68aed2c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "97",
+    "Filename": "ayo-web3-bro",
+    "Name": "ayo web3 bro",
+    "Description": "Someone with no actual knowledge of basic computer principles.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: blue; teeth: gap tooth; clothing: sleeveless ankara top; accessories: green necklace; expression: terrified; strength: tolerant; weakness: illiterate;",
+    "UUID": "c137ec2b-18cd-4c29-a194-af29ac9e6c1c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "98",
+    "Filename": "phoebe-queen-bee",
+    "Name": "phoebe queen bee",
+    "Description": "A self-centred woman, who only thinks about herself",
+    "Gender": "Female",
+    "attributes": "hair: brown flowing hair; eyes: blue; teeth: none; clothing: ankara top; accessories: none; expression: blank; strength: attractive; weakness: gullible;",
+    "UUID": "1277e9c0-81dc-4747-89df-a9d2ae4fcf96"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "99",
+    "Filename": "rachel-warri-babe",
+    "Name": "rachel warri babe",
+    "Description": "A highly disciplined woman.",
+    "Gender": "Female",
+    "attributes": "hair: red braids; eyes: white; teeth: none; clothing: yellow danshiki; accessories: none; expression: blank; strength: assertive; weakness: talkative;",
+    "UUID": "19e6af3b-ef2d-46ba-ba05-59fb612ebbee"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "100",
+    "Filename": "adun-preacher",
+    "Name": "adun preacher",
+    "Description": "A religious woman.",
+    "Gender": "Female",
+    "attributes": "hair: black short hair; eyes: blue; teeth: none; clothing: blue paisley print blouse; accessories: ankara bonnet & hookah;  expression: blank; strength: bold; weakness: fake ;",
+    "UUID": "cc4dfedf-c343-48db-ad67-e39452ec2380"
+  },
+  {
+    "TEAM NAMES": "TEAM CHISEL",
+    "Series Number": "101",
+    "Filename": "adebola-omo-oba",
+    "Name": "adebola omo oba",
+    "Description": "Adebola loves soft life with her fathers wealth.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: opened; teeth: white; clothing: ankara print ; accessories:none ; expression: staring; strength: bold; outspoken; weakness: pride;",
+    "UUID": "fbf43611-f267-4cba-bf4b-a3ffdc122589"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "102",
+    "Filename": "chichi-the-dancer",
+    "Name": "chichi the dancer",
+    "Description": "Chichi loves dancing and party.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: blue;opened; teeth: none; clothing: ankara print; accessories: none; expression: shocked; strength: dancing; weakness: lovergirl;",
+    "UUID": "e7c32b06-7022-49b4-bbe5-81e8c1d58583"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "103",
+    "Filename": "hammed-the-farmer",
+    "Name": "hammed the farmer",
+    "Description": "Hammed owns a farm with his family.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: opened; teeth: none; clothing: brown and cream buba; accessories: nose mask; expression: innocent; strength: farming; weakness: drinking;",
+    "UUID": "e57d8985-599e-49da-8d62-fc16b7ac93f2"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "104",
+    "Filename": "farida-the-tivlady",
+    "Name": "farida the tivlady",
+    "Description": "Farida is a beautiful Tiv woman.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: opened; teeth: none; clothing: ankara print; accessories: lipgloss; expression: cool; strength: cooking; weakness: multitasking;",
+    "UUID": "31d3e229-003e-43c8-ba82-38f49cf58ccb"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "105",
+    "Filename": "hannah-the-singer",
+    "Name": "hannah the singer",
+    "Description": "Hannah loves singing and belongs to choir.",
+    "Gender": "Female",
+    "attributes": "hair: blonde; eyes: opened; teeth: none; clothing: flower print dress; accessories: earrings; expression: angry; strength: singing; weakness: reading;",
+    "UUID": "281f5bd7-5282-458b-9811-e369980e7dee"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "106",
+    "Filename": "nonso-the-igbogirl",
+    "Name": "nonso the igbogirl",
+    "Description": "Nonso is a hardworking Igbo girl.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: opened; teeth: none; clothing: leopard print blouse; accessories: none; expression: happy; strength: business; weakness: spending;",
+    "UUID": "5cfa76df-8376-4505-af12-78af24f108d6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "107",
+    "Filename": "shade-olori",
+    "Name": "shade olori",
+    "Description": "Shade loves soft life and makeup.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: blue;opened; teeth: none; clothing: ankara print; accessories: none; expression: none; strength: makeup; weakness: sleeping;",
+    "UUID": "1a07ca73-d39b-43e9-a0f1-ef9f5e57d3a9"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "108",
+    "Filename": "quadri-the-teacher",
+    "Name": "quadri the teacher",
+    "Description": "Quadri is a devoted teacher that teaches mathematics.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: opened; teeth: none; clothing: yellow on blue jean; accessories: nose mask; expression: none; strength: teaching; weakness: talking;",
+    "UUID": "d96a93e7-17a4-4efe-b09b-02185cc81ce8"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "109",
+    "Filename": "Ifeanyi-the-dj",
+    "Name": "Ifeanyi the dj",
+    "Description": "Ifeanyi is a music dj that performs at events.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: opened; teeth: opened; clothing: animal print; accessories: red cap; expression: none; strength: mixing songs; weakness: none;",
+    "UUID": "030f665d-2cd7-4376-aef5-4030dad9f2d6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "110",
+    "Filename": "fayo-the-yorubademon",
+    "Name": "fayo the yorubademon",
+    "Description": "Fayo is a yoruba demon that breaks hearts.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: africa print; accessories: mask; expression: none; strength: determined; weakness: steals;",
+    "UUID": "e270e278-a9b5-408d-b527-d518239a997b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "111",
+    "Filename": "nkechi-the-actress",
+    "Name": "nkechi the actress",
+    "Description": "Nkechi is an internation actress that acts in hollywood.",
+    "Gender": "Female",
+    "attributes": "hair: purpule short hair; eyes: opened; teeth: none; clothing: native print; accessories: smoking; expression: rugged; strength: love; weakness: lie;",
+    "UUID": "34b1136d-00b1-4f29-8a03-5b02291d47d5"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "112",
+    "Filename": "hamzat-the-mallam",
+    "Name": "hamzat the mallam",
+    "Description": "Hamsat is a mallam that changes money.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: wrapper; accessories: none; expression: straight; strength: traditional; weakness: diabolic;",
+    "UUID": "592eff9f-93b2-4452-a2ed-5d44ebc969db"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "113",
+    "Filename": "nnena-pretty-girl",
+    "Name": "nnena pretty girl",
+    "Description": "Nnena is beautiful girl that loves to talk about her beauty.",
+    "Gender": "Female",
+    "attributes": "hair: brown bob marley; eyes: open; teeth: covered; clothing: african print; accessories: sucker; expression: none; strength: giver; weakness: possesive;",
+    "UUID": "d9477612-ad63-408e-8d12-24679c647b32"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "114",
+    "Filename": "tunde-the-boss",
+    "Name": "tunde the boss",
+    "Description": "Tunde is a boss that orders her helps around.",
+    "Gender": "Male",
+    "attributes": "hair: capped; eyes: opened; teeth: white; clothing: native cloth; accessories: none; expression: none; strength: cooks well; weakness: bossy;",
+    "UUID": "7635c4ee-04f6-4872-bfc9-37e5a73c8fc6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "115",
+    "Filename": "nnamdi-the-barber",
+    "Name": "nnamdi the barber",
+    "Description": "Nnamdi is a barber that does celebrity haircuts.",
+    "Gender": "Male",
+    "attributes": "hair: brown afro; eyes: open; teeth: smokey; clothing: africa print; accessories: none; expression: none; strength: determined; weakness: loves clubbing;",
+    "UUID": "152758f3-9414-45a2-a809-95cb05a3de13"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "116",
+    "Filename": "amaka-the-hypepriestess",
+    "Name": "amaka the hypepriestess",
+    "Description": "Amaka is a very hyper that she hypes in the clubs.",
+    "Gender": "Female",
+    "attributes": "hair: black hair; eyes: opened; teeth: open teeth; clothing: africa print; accessories: none; expression: laughing; strength: independent; weakness: insultive;",
+    "UUID": "c7726e84-3c5c-4e66-8677-cbfb5c9ee850"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "117",
+    "Filename": "kemi-foodie",
+    "Name": "kemi foodie",
+    "Description": "Kemi loves food but cannot cook.",
+    "Gender": "Female",
+    "attributes": "hair: black har with scarf; eyes: partly opened; teeth: none; clothing: one hand style; accessories: none; expression: none; strength: can cook very well; weakness: dirtiness;",
+    "UUID": "3116cb6f-14c4-4d5a-af57-54253b72a309"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "118",
+    "Filename": "ada-the-fashionister",
+    "Name": "ada the fashionister",
+    "Description": "Ada loves fashion that she rarely repeats cloths.",
+    "Gender": "Female",
+    "attributes": "hair: brown afro; eyes: glasses; teeth: white; clothing: africa print; accessories: none; expression: smiling; strength: successful; weakness: too serious;",
+    "UUID": "a14df1c1-7a5a-4a33-8780-0fb01c593da6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "119",
+    "Filename": "kayode-the-baller",
+    "Name": "kayode the baller",
+    "Description": "Kayode loves life and lives it.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: wide opened; teeth: none; clothing: yellow on jeans; accessories: none; expression: none; strength: swaggy; weakness: loves women;",
+    "UUID": "fe17bfdc-c251-4654-8313-1ab793e11748"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "120",
+    "Filename": "kola-of-lagos",
+    "Name": "kola of lagos",
+    "Description": "Kola is the life of the party everywhere he is.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: opened; teeth: none; clothing: native; accessories: none; expression: none; strength: intelligent; weakness: shy;",
+    "UUID": "df295be1-1509-406e-a263-28a5dee0abca"
+  },
+  {
+    "TEAM NAMES": "TEAM BRAINBOX",
+    "Series Number": "121",
+    "Filename": "azikiwe-popular-trader",
+    "Name": "azikiwe popular trader",
+    "Description": "Azikiwe is a popular trader.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: blue; teeth: none; clothings: purple and yellow; accessories: cap; expression: happy; strength:strong; weakness shy;",
+    "UUID": "7ebde325-8efc-4997-811a-b5686269929e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "122",
+    "Filename": "obasanjo-funny-guy",
+    "Name": "obasanjo funny guy",
+    "Description": "Obasanjo is such a sweet guy.",
+    "Gender": "Male",
+    "attributes": "hair:none ;eyes: black;teeth:small open teeth; clothings: sleeveless yellow ankara; accessories:none; expression: serious face; strength:mild; weakness:anger;",
+    "UUID": "c136a120-a339-4080-96ca-1c93845c5848"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "123",
+    "Filename": "yakubu-village-chief",
+    "Name": "yakubu village chief",
+    "Description": "Yakubu is the best village chieftain.",
+    "Gender": "Male",
+    "attributes": "hair:none ;eyes: blue;teeth:open white teeth; clothings: black isiagu; accessories:cap; expression:happy; strength:strong; weakness:impatience;",
+    "UUID": "5b0c0d26-d204-4264-b579-081ff9df935b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "124",
+    "Filename": "abacha-loves-smoking",
+    "Name": "abacha loves smoking",
+    "Description": "Abacha loves taking cigarettes.",
+    "Gender": "Male",
+    "attributes": "hair:cute braided hair ;eyes: black ball white eye; teeth:none; clothings: mixed colors ankara wear; accessories:none; expression:happy; strength:strong; weakness:anger;",
+    "UUID": "8ac6d95f-0cf3-4f54-9cf2-be8834b3004c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "125",
+    "Filename": "johnathan-good-leader",
+    "Name": "johnathan good leader",
+    "Description": "Johnathan is very progressive young man.",
+    "Gender": "Male",
+    "attributes": "hair:punk bearded man ;eyes: closed; teeth:none; clothings: white shirt and senator; accessories:cap; expression:bone face; strength:strong; weakness:pride;",
+    "UUID": "241e3713-4ce3-48d0-827f-b282ae2db6c4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "126",
+    "Filename": "johnathan-genz-kid",
+    "Name": "johnathan genz kid",
+    "Description": "Johnathan is zealous.",
+    "Gender": "Male",
+    "attributes": "hair:none ;eyes: blue;teeth: white; clothings: yellow ankara wear; accessories: traditional cap; expression:happy; strength:strong; weakness:arrogance;",
+    "UUID": "90c0ae09-a35f-42ad-b93c-dcf30169acd9"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "127",
+    "Filename": "eddy-the-community",
+    "Name": "eddy the community",
+    "Description": "Man of the people.",
+    "Gender": "Male",
+    "attributes": "hair:none ;eyes: blue; teeth:none; clothings: black isiagu wear; accessories: cap; expression: happy; strength: strong; weakness:emotional;",
+    "UUID": "5cabf9d9-882b-459e-9253-8c07eb045e2d"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "128",
+    "Filename": "olu-the-oba",
+    "Name": "olu the oba",
+    "Description": "Olu the great ruler.",
+    "Gender": "Male",
+    "attributes": "hair: purple braided hair ;eyes: black; teeth: none; clothings: mixed color traditional wear; accessories: none; expression: serious face; strength:mild; weakness:anger;",
+    "UUID": "04c4b28a-aca0-44b1-a064-ed0d9d2a31ca"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "129",
+    "Filename": "edu-the-biggest-trader",
+    "Name": "edu the biggest trader",
+    "Description": "The biggest merchant in west coast.",
+    "Gender": "Male",
+    "attributes": "hair:none ;eyes: blue; teeth:closed; clothings: black and yellow collar native wear; accessories:cap; expression:happy; strength:strong; weakness:impatience;",
+    "UUID": "48d1de5f-5f3f-46aa-b2fd-68420a8e802b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "130",
+    "Filename": "james-importer-and-exporter",
+    "Name": "james importer and exporter",
+    "Description": "James is the sole importer and exporter of spare parts.",
+    "Gender": "Male",
+    "attributes": "hair:none ;eyes: blue;teeth:none; clothings: purple and yellow; accessories:cap; expression:happy; strength:strong; weakness:pride;",
+    "UUID": "22541251-022f-480c-8c1e-cf754dce16d6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "131",
+    "Filename": "lanre-the-dreaded-guy",
+    "Name": "lanre the dreaded guy",
+    "Description": "Lanre has a great reputation.",
+    "Gender": "Male",
+    "attributes": "hair: none ;eyes: none; teeth:white; clothings: ankara; accessories:cap; expression: happy; strength:strong; weakness:anger;",
+    "UUID": "66a054cd-5541-4000-98aa-8f2e9892d880"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "132",
+    "Filename": "olamide-the-street-boy",
+    "Name": "olamide the street boy",
+    "Description": "Friendly street gang.",
+    "Gender": "Male",
+    "attributes": "hair:none ;eyes: white; teeth: none; clothings: green and blue; accessories: cap; expression: serious face; strength:strong; weakness:stubborn;",
+    "UUID": "d50a35b1-b42e-4e0c-8dd8-9b892b56d371"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "133",
+    "Filename": "uche-peace-loving-man",
+    "Name": "uche peace loving man",
+    "Description": "Uche man of peace and discipline.",
+    "Gender": "Male",
+    "attributes": "hair: yellow ;eyes: blue;teeth:none; clothings: yellow; accessories:none; expression:happy; strength:strong; weakness:emotional;",
+    "UUID": "6c9d6eae-2ea2-468c-a2c8-928aaafc084b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "134",
+    "Filename": "dave-the-tech-bro",
+    "Name": "dave the tech bro",
+    "Description": "Dave the web3 enthusiast.",
+    "Gender": "Male",
+    "attributes": "hair: none ;eyes: none; teeth:white; clothings: none; accessories:cap; expression: serious face; strength:strong; weakness:none;",
+    "UUID": "c0857b11-bf0e-46a4-9108-b8eb93d83e74"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "135",
+    "Filename": "obi-the-biggest-humanitarian",
+    "Name": "obi the biggest humanitarian",
+    "Description": "Obi loves service to humanity.",
+    "Gender": "Male",
+    "attributes": "hair:none ;eyes: blue; teeth:white; clothings: brown; accessories:cap; expression:happy; strength: strong; weakness:none;",
+    "UUID": "201a408c-7a2e-42d9-a62c-0136c885c211"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "136",
+    "Filename": "precious-the-emotional-girl",
+    "Name": "precious the emotional girl",
+    "Description": "Soft hearted and sensitive precious.",
+    "Gender": "Female",
+    "attributes": "hair:none ;eyes: white; teeth: white; clothings: yellow and blue; accessories:cap; expression:angry; strength:strong; weakness:none;",
+    "UUID": "b6a41ff1-51ce-42f7-9933-85d0a22ced68"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "137",
+    "Filename": "ella-serious-minded",
+    "Name": "ella serious minded",
+    "Description": "Ella a dedicated young lady.",
+    "Gender": "Female",
+    "attributes": "hair: none ;eyes: white;teeth: white; clothings: black and yellow; accessories:cap; expression:happy; strength:strong; weakness:none;",
+    "UUID": "04036447-f43e-4bfb-9503-f55c9064b14e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "138",
+    "Filename": "cynthia-cute-eyes",
+    "Name": "cynthia cute eyes",
+    "Description": "Cynthia with a priceless cute eyes.",
+    "Gender": "Female",
+    "attributes": "hair:yellow ;eyes: blue;teeth:none; clothings: blue and yellow; accessories: none; expression: serious face; strength: mild; weakness:pride;",
+    "UUID": "5d12847b-6d71-4691-8337-2e6ef3e283b2"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "139",
+    "Filename": "mary-with-hair",
+    "Name": "mary with hair",
+    "Description": "Mary with her beautiful Afro.",
+    "Gender": "Female",
+    "attributes": "hair: none;eyes: none;teeth:none; clothings: casual ankara; accessories:cap; expression:scared; strength:sensitive; weakness: fearful;",
+    "UUID": "98035e8b-6540-4464-8a3c-fdac9f07b168"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "140",
+    "Filename": "ada-chewing-bubble-gum",
+    "Name": "ada chewing bubble gum",
+    "Description": "Ada always chewing gum.",
+    "Gender": "Female",
+    "attributes": "hair: none;eyes: none;teeth: white; clothings: traditional wear; accessories:cap; expression:sassy; strength:decisive; weakness: insensitive;",
+    "UUID": "15309dc5-e483-4658-b503-db85ba2c1722"
+  },
+  {
+    "TEAM NAMES": "TEAM PLUG",
+    "Series Number": "141",
+    "Filename": "viganem-the-drummer-girl",
+    "Name": "viganem the drummer girl",
+    "Description": "Known for typically playing the drum for 5 hours per day without a break.",
+    "Gender": "Female",
+    "attributes": "hair: none;  eyes: none;  teeth: none;  clothing: ankara with drum patterns;  accessories: none;  expression: sumg;  strength: none;  weakness: none;",
+    "UUID": "5a5a6f5c-39f3-4beb-ab74-60d3c7a90fd4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "142",
+    "Filename": "lenusuka-the-big-woman",
+    "Name": "lenusuka the big woman",
+    "Description": "The lady that loves spending money and buying everybody asaobi.",
+    "Gender": "Female",
+    "attributes": "hair: purple;  eyes: none;  teeth: none;  clothing: black and blue ankara;  accessories: none;  expression: serious;  strength: none;  weakness: none;",
+    "UUID": "e564a43a-ef77-487d-a88e-749d20a09fd8"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "143",
+    "Filename": "enepua-the-clout-queen",
+    "Name": "enepua the clout queen",
+    "Description": "The lady that travels all day and enjoys snapping food at restaurants.",
+    "Gender": "Female",
+    "attributes": "hair: purple;  eyes: none;  teeth: none;  clothing: black ankara with yellow and blue gear pattern;  accessories: none;  expression: chill; strength: none;  weakness: none;",
+    "UUID": "6dc7e452-0626-4f4c-a28c-f5db3532e305"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "144",
+    "Filename": "usifong-queen-of-mushin",
+    "Name": "usifong queen of mushin",
+    "Description": "Changes her hair every 2 weeks and cannot finish one pure water.",
+    "Gender": "Female",
+    "attributes": "hair: brown afro;  eyes: none;  teeth: none;  clothing: black ankara with yellow; peach; and blue gear pattern;  accessories: none;  expression: unbothered;  strength: none;  weakness: none;",
+    "UUID": "221263d0-8775-49f8-bbf8-4b08b49e1482"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "145",
+    "Filename": "akinyim-the-clown",
+    "Name": "akinyim the clown",
+    "Description": "The most interesting christmas clown, known for dancing in prisons and hospitals on christmas eve.",
+    "Gender": "Female",
+    "attributes": "hair: burgundy dreadlocks;  eyes: none;  teeth: none;  clothing: kente blouse with asymmetric neckline;  accessories: none;  expression: off-standish;  strength: none;  weakness: none;",
+    "UUID": "c1070dce-48a1-4ae8-b9a4-d070859a8377"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "146",
+    "Filename": "zawadi-mr-sleep-everywhere",
+    "Name": "zawadi mr sleep everywhere",
+    "Description": "Likes sleeping in the weirdest places especially in clubs.",
+    "Gender": "Male",
+    "attributes": "hair: brown; eyes:none; teeth: none; clothing: kente agbada; accessories: none; expression: goofy; strength: none; weakness: none;",
+    "UUID": "c22489fe-574b-47f3-9667-c9c798b2d4df"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "147",
+    "Filename": "chepkirui-mr-self-love",
+    "Name": "chepkirui mr self love",
+    "Description": "Likes taking care of himself and spending on himself.",
+    "Gender": "Male",
+    "attributes": "hair: burgundy fila cap;  eyes: none;  teeth: none;  clothing: black and kente patterned agbada;  accessories: none;  expression: sleepy;  strength: none;  weakness:none;",
+    "UUID": "1a91e778-d214-476b-a667-94e9ecb8b5ce"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "148",
+    "Filename": "naserian-the-fear-fear-dancer",
+    "Name": "naserian the fear fear dancer",
+    "Description": "A timid and dancer who is always afraid of a large crowd of audience and yet his dance moves can raise the dead.",
+    "Gender": "Male",
+    "attributes": "hair: face; cap: turned to the side;  eyes: none;  teeth: none;  clothing: yellow and blue ankara;  accessories: none;  expression: warm;  strength: none;  weakness: none;",
+    "UUID": "8177cf38-8284-4eb4-b19c-04473bcb3b5e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "149",
+    "Filename": "wawuda-the-ashawo-of-africa",
+    "Name": "wawuda the ashawo of africa",
+    "Description": "Brags about his body count and follows skirt anywhere.",
+    "Gender": "Male",
+    "attributes": "hair: blue cap;  eyes: none;  teeth: none;  clothing: green top with blue overalls;  accessories: none;  expression: fear;  strength: none; weakness: none;",
+    "UUID": "0554bf35-f588-4009-aafc-ef875b878c29"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "150",
+    "Filename": "kerubo-the-igbo-smoker",
+    "Name": "kerubo the igbo smoker",
+    "Description": "Loves only his igbo and is happy when he finds an old blunt.",
+    "Gender": "Male",
+    "attributes": "hair: brown;  eyes: none;  teeth: none;  clothing: brown shirt with dog pattern;  accessories: none;  expression: smirking   strength: none;  weakness: none;",
+    "UUID": "33ba8e73-7949-4bc7-ba27-37ee1d573946"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "151",
+    "Filename": "rehema-the-olodo",
+    "Name": "rehema the olodo",
+    "Description": "Failed primary 5 eight times and like playing football after school.",
+    "Gender": "Male",
+    "attributes": "hair: teal cap with black and white stripes;  eyes: none;  teeth: none;  clothing: purple shirt with yellow accent;  accessories: none;  expression: euphoric;  strength: none;  weakness: none;",
+    "UUID": "1fb33783-4898-48cf-8a73-f81afc71e1a8"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "152",
+    "Filename": "nekesa-the-brainbox",
+    "Name": "nekesa the brainbox",
+    "Description": "A proposed elite who cannot write a simple speech.",
+    "Gender": "Male",
+    "attributes": "hair: black and red hat;  eyes: none;  teeth: none;  clothing: monostrap black ankara with yellow and red patterns;  accessories: none; expression: playful;  strength: none;  weakness: none;",
+    "UUID": "7ba909bd-19a1-454d-a86c-a45e85cb94a6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "153",
+    "Filename": "kiokoli-the-slowrunner",
+    "Name": "kiokoli the slowrunner",
+    "Description": "Always running in every race but never making it to the first 5.",
+    "Gender": "Male",
+    "attributes": "hair: black and yellow cap;  eyes: none;  teeth: none;  clothing: maroon agbada with yellow accents;  accessories: none;  expression: clueless;  strength: none;  weakness: none;",
+    "UUID": "d7027b6c-ae53-4cce-b80d-67aeb7ceb1ba"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "154",
+    "Filename": "adjuani-uncle-wire-wire",
+    "Name": "adjuani uncle wire wire",
+    "Description": "Mugu money spender that loves spending on women extravagantly.",
+    "Gender": "Male",
+    "attributes": "hair: red cap;  eyes: none;  teeth: none;  clothing: plain and patterned ankara shirt;  accessories: none;  expression: anxious;  strength: none; weakness: none;",
+    "UUID": "36cd959f-d280-41f6-af76-765715c72527"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "155",
+    "Filename": "ajobaru-a-creative-artist",
+    "Name": "ajobaru a creative artist",
+    "Description": "A lovely artist who is know for creating magical art pieces that can spark a smile.",
+    "Gender": "Male",
+    "attributes": "hair: black and yellow fila cap;  eyes: none;  teeth: none;  clothing: yelow kente shirt;  accessories: none;  expression: cheerful;  strength: none;  weakness: none;",
+    "UUID": "9d262f55-73d7-4b95-9a82-42356dbb085c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "156",
+    "Filename": "effiadem-the-fireman",
+    "Name": "effiadem the fireman",
+    "Description": "A retired military general who always loves shooting at sight.",
+    "Gender": "Male",
+    "attributes": "hair: brown;  eyes: none;  teeth: none;  clothing: black and kente agbada; accessories: none;  expression: high; strength: none;  weakness: none;",
+    "UUID": "a4534fe0-b5ed-41ab-af72-1f2d0ff0fc64"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "157",
+    "Filename": "deladem-the-commandoo",
+    "Name": "deladem the commandoo",
+    "Description": "The nerd who has watched all war movies but cannot fight a kid.",
+    "Gender": "Male",
+    "attributes": "hair: burgundy cap;  eyes: none;  teeth: none;  clothing: black and kente agbada;  accessories: none;  expression: none;  strength: none;  weakness: none;",
+    "UUID": "88106b92-da30-46ad-a3cc-d528683b9e33"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "158",
+    "Filename": "dogbeda-the-monger",
+    "Name": "dogbeda the monger",
+    "Description": "A fisherman who pracitically live in the river.",
+    "Gender": "Male",
+    "attributes": "hair: orange and cream cap;  eyes: none;  teeth: none;  clothing: orange and blue denim;  accessories: none;  expression: unbothered;  strength: none;  weakness: none;",
+    "UUID": "66a09968-cb92-4378-a588-49947f68c537"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "159",
+    "Filename": "enyonyam-our-slay-mama",
+    "Name": "enyonyam our slay mama",
+    "Description": "Posts new pictures everyday and can snub for africa.",
+    "Gender": "Male",
+    "attributes": "hair: blue cap; eyes: none; teeth: none; clothing: green top with overall; accessories: none; expression: none; strength:none; weakness: none;",
+    "UUID": "5e7c7f9d-d631-4759-9b27-cbaccd33d39f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "160",
+    "Filename": "lumusi-pro-technician",
+    "Name": "lumusi pro technician",
+    "Description": "The electrician well known for wiring burnt buildings.",
+    "Gender": "Male",
+    "attributes": "hair: red hair; eyes: none; teeth: none; clothing: white top with blue overalls; accessories: none; expression: high; strength: none; weakness: none;",
+    "UUID": "b07676a6-c611-410d-8426-46c9c525189a"
+  },
+  {
+    "TEAM NAMES": "TEAM HEADLIGHT",
+    "Series Number": "161",
+    "Filename": "funmi-the-fashionist",
+    "Name": "funmi the fashionist",
+    "Description": "Funmi enjoys fashion and she always takes opportunity to showcase her wardrobe.",
+    "Gender": "Female",
+    "attributes": "hair: black hair; eyes: none; teeth: none; clothing: aso oke; expression: cool; accessories: head tye and eye glasses; strength: fashion; weakness: men;",
+    "UUID": "4f9d99a4-78a2-4fdd-bc30-b027600fa88e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "162",
+    "Filename": "bola-the-funky",
+    "Name": "bola the funky",
+    "Description": "Bola is a funky fellow but she has another personality no one knows.",
+    "Gender": "Female",
+    "attributes": "hair: purple shuku; eyes: none; teeth: none; clothing: adire top; expression: neutral; accessories: eye glasses; strength: caring; weakness: snake",
+    "UUID": "ac721b71-cbc5-425c-851f-ee826973f0b9"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "163",
+    "Filename": "bimpe-the-runzgirl",
+    "Name": "bimpe the runzgirl",
+    "Description": "Be careful with Bimpe because she cac be sensitive.",
+    "Gender": "Female",
+    "attributes": "hair: purple dreadlock; eyes: none; teeth: none; clothing: one arm ankara; expression: mischievious; accessories: eye glasses; strength: humanitarian; weakness: opposite sex",
+    "UUID": "eaa7662f-6926-468a-9add-e791916ae42b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "164",
+    "Filename": "sola-the-queen",
+    "Name": "sola the queen",
+    "Description": "Sola is a princess as she's got the mind of a queen.",
+    "Gender": "Female",
+    "attributes": "hair: brown long hair; eyes: none; teeth: none; clothing: blouse top; expression: cool; accessories: eye glasses; strength: Strong character; weakness: beauty",
+    "UUID": "d5f23ad3-832a-4d3e-814e-e23f466d18a4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "165",
+    "Filename": "temi-afro-girl",
+    "Name": "temi afro girl",
+    "Description": "Temi is know for her funny haircut and this time afro is up.",
+    "Gender": "Female",
+    "attributes": "hair: orange full hair; eyes: none; teeth: none; clothing: ankara; expression: cool; accessories: eye glasses; strength: loving; weakness: sheepish",
+    "UUID": "4f9d99a4-78a2-4fdd-bc30-b027600fa88e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "166",
+    "Filename": "jonny-the-bravo",
+    "Name": "jonny the bravo",
+    "Description": "Jonny is friendly to all and everybody sees him as kind agile Jonny.",
+    "Gender": "Male",
+    "attributes": "hair: orange pink; eyes: closed; teeth: candy in mouth; clothing: igbo attire; expression: relaxed; accessories: candy in mouth; strength: helping people; weakness: hastly rash",
+    "UUID": "2b345988-b4b0-453b-ad39-efe1321bc8f1"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "167",
+    "Filename": "tunde-the-bigman",
+    "Name": "tunde the bigman",
+    "Description": "Tunde is the big man on the street and flamboyant life style is his identity.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: closed; teeth: white with one tooth missing; clothing: agbada; expression: resting; accessories: head wear; strength: money; weakness: monkey",
+    "UUID": "56db423e-8b09-453e-b5fc-61f4da9d7a6f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "168",
+    "Filename": "joe-the-plain",
+    "Name": "joe the plain",
+    "Description": "Plain and simple and no one in town is more gentle that broda Joe.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: watery blue eye; teeth: tongue out; clothing: agbada; expression: happy; accessories: face cap; strength: handling situation; weakness: overthinking",
+    "UUID": "7a3083bd-5aa2-48b5-a30b-4445cc060f57"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "169",
+    "Filename": "wale-sharp-guy",
+    "Name": "wale sharp guy",
+    "Description": "Wale no de carry last because he thinks and act fast.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: closed; teeth: white with a tooth missing; clothing: agbada; expression: fearful; accessories: blue head scaf; strength: smart; weakness: too forward",
+    "UUID": "44906ea0-901b-4b3d-802f-f73acc8758f6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "170",
+    "Filename": "dele-the-snoozer",
+    "Name": "dele the snoozer",
+    "Description": "If sleeping were to be a job then Dele will be the world busiest man.",
+    "Gender": "Male",
+    "attributes": "hair: low cut; eyes: closed; teeth: gapped teeth; clothing: agbada; expression: snoozing; accessories: none; strength: loving; weakness: sleep",
+    "UUID": "4f9d99a4-78a2-4fdd-bc30-b027600fa88e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "171",
+    "Filename": "father -of -tolu",
+    "Name": "father of tolu",
+    "Description": "Baba Tolu is a proud father. He will sell his soul just to see Tolu excel in life.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black iris; teeth: long front tooth; clothing: ankara; expression: fearfully; accessories: head cap; strength: fatherly; weakness: women",
+    "UUID": "a2651258-ca3f-4940-b095-3a61ff630263"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "172",
+    "Filename": "emeka-the-chief",
+    "Name": "emeka the chief",
+    "Description": "Chief Emeka is the pillar of the community. Just and fair to all. The real mazi.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black iris; teeth: full white teeth; clothing: wrapper wrapped around body; expression: smiling; accessories: head cap; strength: leadership; weakness: anger",
+    "UUID": "de25fd63-dafd-4f77-8072-7ac0ae3a3ab2"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "173",
+    "Filename": "lawal-the-drooler",
+    "Name": "lawal the drooler",
+    "Description": "Lawal has only one business which is just to sleep and sleep it's only normal for him to drool anytime.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: teary grey iris; teeth: gapped teeth; clothing: agbada; expression: sleepy; accessories: head wear; strength: rich; weakness: alcoholism",
+    "UUID": "806b640f-1c8b-4cc0-aa10-45f3ddc00140"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "174",
+    "Filename": "solo-the-messenger",
+    "Name": "solo the messenger",
+    "Description": "Solo is a multitasker if you need anything done in your home, Solo is your guy.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black eye; teeth: stained tooth; clothing: simple top; expression: relax; accessories: cap; strength: multitasking; weakness: women",
+    "UUID": "44906ea0-901b-4b3d-802f-f73acc8758f6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "175",
+    "Filename": "femi-the-honorable",
+    "Name": "femi the honorable",
+    "Description": "Honorable Femi is the modern day politician but everything he does is only to further his political career.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: blue iris; skin color: brown; teeth: one missing tooth; clothing: aso oke; expression: happy; accessories: abetiaja cap; strength: public speaking; weakness: money",
+    "UUID": "af53bf52-b517-4347-adc6-07cf30c19025"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "176",
+    "Filename": "friday-the-bigsboy",
+    "Name": "friday the bigsboy",
+    "Description": "Friday always live up to his name. Every Friday is for the party.",
+    "Gender": "Male",
+    "attributes": "hair: orange afro; eyes: black iris; skin color: brown; teeth: none; clothing: aso oke; expression: unconcerned; accessories: cigrette in mouth; strength: money in pocket; weakness: sense of responsibility",
+    "UUID": "05ec3aae-7da8-4125-93fb-6fc544e5bc61"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "177",
+    "Filename": "kweku-the-planter",
+    "Name": "kweku the planter",
+    "Description": "Kweku says he did it but he dey plant until he was bursted.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: closed; teeth: none; clothing: aso oke; expression: smiling; accessories: head wear; strength: industrious; weakness: criminally minded",
+    "UUID": "af53bf52-b517-4347-adc6-07cf30c19025"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "178",
+    "Filename": "2pac-the-remix",
+    "Name": "2pac the remix",
+    "Description": "2pac is alive in him because his style is exactly the same.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: blue iris; teeth: gapped teeth; clothing: Igbo clothing; expression: surprised; accessories: face cap; strength: hardworking; weakness:fear",
+    "UUID": "9993e5ec-2f31-485c-9c6d-f780c078ae56"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "179",
+    "Filename": "tope-the-influencer",
+    "Name": "tope the influencer",
+    "Description": "Tope is a famous influencer and she is loved by his followers which keep growing everyday.",
+    "Gender": "Female",
+    "attributes": "hair: none; eyes: black iris; teeth: none; clothing: agbada; expression: tired; accessories: tied head scaf; strength: Influencing people; weakness: talk too much",
+    "UUID": "3b3e1f66-922b-4f87-8cdb-0d09fc143182"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "180",
+    "Filename": "gabby-the-evangelist",
+    "Name": "gabby the evangelist",
+    "Description": "Evangelist Gabby is blending gospel with comedy.",
+    "Gender": "Male",
+    "attributes": "hair: pink hair; eyes: black iris; teeth: none; clothing: agbada; expression: happily surprised; accessories: none; strength: make people happy; weakness:misleading",
+    "UUID": "ac721b71-cbc5-425c-851f-ee826973f0b9"
+  },
+  {
+    "TEAM NAMES": "TEAM CRANKSHAFT",
+    "Series Number": "181",
+    "Filename": "beauty-of-town",
+    "Name": "beauty of town",
+    "Description": "She is the most beautiful in the neighbourhood",
+    "Gender": "Female",
+    "attributes": "hair:pitch; eyes: blue  teeth: none  clothing: top accessories: bow-tie  expression: strengths: powerful; weakness: sentimental",
+    "UUID": "7241a1be-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "182",
+    "Filename": "lola-babe",
+    "Name": "lola babe",
+    "Description": "Looking hot as always",
+    "Gender": "Female",
+    "attributes": "hair:brown; eyes: blue  teeth: none  clothing: aso-oke  accessories: none  expression: happy;strengths: calculative; weakness: misleading",
+    "UUID": "7241a664-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "183",
+    "Filename": "cardy_h-sharp-babe",
+    "Name": "cardy h sharp babe",
+    "Description": "Cardy is the sharpest amongst her friends",
+    "Gender": "Female",
+    "attributes": "hair: two brown bun; eyes: blue  teeth: none  clothing: yoruba-clothing(aso-oke)  accessories: none  expression: strengths: free spirit;lack of fear;confidence: weakness;:misleading;influencing people",
+    "UUID": "7241a7c2-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "184",
+    "Filename": "bella-the-baller",
+    "Name": "bella the baller",
+    "Description": "Baller for Life",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: blue  teeth: none  clothing: igbo-clothing accessories: none  expression: determined strengths: adaptation; weakness: fluency",
+    "UUID": "7241ad26-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "185",
+    "Filename": "milly-of-roses",
+    "Name": "milly of roses",
+    "Description": "Her lips so red like a rose",
+    "Gender": "Female",
+    "attributes": "hair: beige; eyes: blue  teeth: none  clothing: black-top  accessories: none  expression:strengths: cool headed; weakness: pressure",
+    "UUID": "7241af92-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "186",
+    "Filename": "preciousjada-the-viper",
+    "Name": "preciousjada the viper",
+    "Description": "Her words stings likes a viper",
+    "Gender": "Female",
+    "attributes": "hair: ginger afro; eyes: blue  teeth: white teeth  clothing: aso-oke   expression: strong-willed  strengths: confidence; weakness: endurance",
+    "UUID": "7241b12c-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "187",
+    "Filename": "lolly-of-ny",
+    "Name": "lolly of ny",
+    "Description": "Most popular in NY",
+    "Gender": "Female",
+    "attributes": "hair: purple braids; eyes: black  teeth: none  clothing: black and blue top  accessories: none expression: calculative strength: strong willed; weakness: relationship",
+    "UUID": "7241b2ee-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "188",
+    "Filename": "disy-the-dancer",
+    "Name": "disy the dancer",
+    "Description": "Dances her way into any show",
+    "Gender": "Female",
+    "attributes": "hair: black hair tied with scalf; eyes: black  teeth: none  clothing: one-arm top  accessories: none  expression: bad girl vibes  strength: cleaniness; weakness: perfectionist",
+    "UUID": "7241b4c4-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "189",
+    "Filename": "jenny-the-great",
+    "Name": "jenny the great",
+    "Description": "The greatest of our time",
+    "Gender": "Female",
+    "attributes": "hair: black tied with scalf; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: badass weakness: cancer",
+    "UUID": "7241b852-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "190",
+    "Filename": "lolly-the-pop",
+    "Name": "lolly the pop",
+    "Description": "Seeing lolly makes me pop",
+    "Gender": "Female",
+    "attributes": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: peaceful weakness: anger",
+    "UUID": "7241ba00-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "191",
+    "Filename": "disy-the-queen",
+    "Name": "disy the queen",
+    "Description": "The queen in her own space",
+    "Gender": "Female",
+    "attributes": "hair: one bun dark brown; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: beauty; weakness: lover girl",
+    "UUID": "7241bda2-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "192",
+    "Filename": "jennyp-of-lagos",
+    "Name": "jennyp of lagos",
+    "Description": "A well known celebrity in Lagos",
+    "Gender": "Female",
+    "attributes": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: super powerful; weakness: sleeping",
+    "UUID": "7241bf1e-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "193",
+    "Filename": "jada-of-life",
+    "Name": "jada of life",
+    "Description": "Her business signature",
+    "Gender": "Female",
+    "attributes": "hair: male; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: calm weakness: sun",
+    "UUID": "7241c202-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "194",
+    "Filename": "sandy-the-rapper",
+    "Name": "sandy the rapper",
+    "Description": "She just loves to rap",
+    "Gender": "Female",
+    "attributes": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: clean weakness: foodie",
+    "UUID": "7241c342-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "195",
+    "Filename": "dahila-the-genius",
+    "Name": "dahila the genius",
+    "Description": "The genius in the family",
+    "Gender": "Female",
+    "attributes": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: activist; weakness: irrational",
+    "UUID": "7241c4fa-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "196",
+    "Filename": "rosemary-of-yaba",
+    "Name": "rosemary of yaba",
+    "Description": "She has a cloth store in Yaba",
+    "Gender": "Female",
+    "attributes": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: mind games; weakness: insomia",
+    "UUID": "7241c61c-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "197",
+    "Filename": "jennifer-of -island",
+    "Name": "jennifer of island",
+    "Description": "She goes on vacation to the island",
+    "Gender": "Female",
+    "attributes": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: strong ; weakness: lateness",
+    "UUID": "7241ca18-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "198",
+    "Filename": "opeyemi-of-lekki",
+    "Name": "opeyemi of lekki",
+    "Description": "Opeyemi lives in lekki",
+    "Gender": "Female",
+    "attributes": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: conversationist; weakness: traditionalist",
+    "UUID": "7241c8e2-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "199",
+    "Filename": "vicky-the-artist",
+    "Name": "vicky the artist",
+    "Description": "Brings life into what she draws",
+    "Gender": "Female",
+    "attributes": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: strong willed; weakness: crying",
+    "UUID": "7241cb3a-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "200",
+    "Filename": "afrogirl-sailor",
+    "Name": "afrogirl sailor",
+    "Description": "She loves to sail the ocean",
+    "Gender": "Female",
+    "attributes": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: height;  weakness: pride",
+    "UUID": "7241cc66-59da-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "TEAM GEAR",
+    "Series Number": "201",
+    "Filename": "ahmed-the-merchant",
+    "Name": "ahmed the merchant",
+    "Description": "A rich merchant that sells in babylon.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: closed; teeth: none; clothing: one-hand; accessories: none; expression: smiling; strength: business; weakness: alcohol;",
+    "UUID": "9996ecb6-4d92-4b51-bc50-d962f68f1ecc"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "202",
+    "Filename": "blind-tonia",
+    "Name": "blind tonia",
+    "Description": "A girl that lost one of her eyes in a street fight.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: one; teeth: none; clothing: blouse; accessories: none; expression: none; strength: smiling; weakness: none;",
+    "UUID": "4a5f4c6d-d0dd-4b71-b095-86ef11910962"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "203",
+    "Filename": "buffy-the-vampire",
+    "Name": "buffy the vampire",
+    "Description": "A vampire diary protagonist that got bitten by a vampire in real life.",
+    "Gender": "Female",
+    "attributes": "hair: none; eyes: small; teeth: two; clothing: shirt; accessories: none; expression: none; strength: biting; weakness: none;",
+    "UUID": "bd329fd7-dd90-4180-a7a7-03e2d41535cb"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "204",
+    "Filename": "caro-lipstick",
+    "Name": "caro lipstick",
+    "Description": "A girl that puts on lipstick always, even to bed.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: glasses; teeth: none; clothing: blouse; accessories: none; expression: sazzy; strength: none; weakness: none;",
+    "UUID": "a34d7a7b-d8f6-46fb-9abc-6d6d7293fffb"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "205",
+    "Filename": "charity-the-maid",
+    "Name": "charity the maid",
+    "Description": "A maid that works for the fun of it.",
+    "Gender": "Female",
+    "attributes": "hair: none; eyes: small; teeth: two; clothing: shirt; accessories: none; expression: none; strength: biting; weakness: none;",
+    "UUID": "22286b60-5f7b-4df3-8cb1-187d02fb83d0"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "206",
+    "Filename": "charity-with-fakehair",
+    "Name": "charity with fakehair",
+    "Description": "A girl with a bald hair but always wears wig to cover her head.",
+    "Gender": "Female",
+    "attributes": "hair: orange; eyes: glasses; teeth: none; clothing: blouse; accessories: normal; expression: none; strength: none; weakness: barbing-saloon;",
+    "UUID": "efc0f7f5-d90b-46cc-be0b-6fcaa23a5422"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "207",
+    "Filename": "daniel-the-hustler",
+    "Name": "daniel the hustler",
+    "Description": "A boy that lives in the streets of Lagos hustling everyday to make ends meet.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: none; clothing: shirt; accessories: gang; expression: smiling; strength: hustling; weakness: alcohol;",
+    "UUID": "355be0ea-e500-41e1-add4-ce868759bb72"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "208",
+    "Filename": "grandma-nanny",
+    "Name": "grandma nanny",
+    "Description": "A grandmother that does nothing but sleeps all day.",
+    "Gender": "Female",
+    "attributes": "hair: white; eyes: blue; teeth: none; clothing: blouse; accessories: fashion; expression: smiling; strength: design; weakness: none;",
+    "UUID": "ec8fe198-5c45-42a6-a909-4cfbcbbf6519"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "209",
+    "Filename": "granpa-willy",
+    "Name": "granpa willy",
+    "Description": "A grandfather that drinks beer and reads newspaper all day.",
+    "Gender": "Male",
+    "attributes": "hair: white; eyes: black; teeth: none; clothing: shirt; accessories: fashion; expression: smiling; strength: reading; weakness: drinking;",
+    "UUID": "facf7001-d028-4e00-bffc-ed1f7c005ecc"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "210",
+    "Filename": "joshua-gang-leader",
+    "Name": "joshua gang leader",
+    "Description": "A boy born to ritualist parents and now runs his own gang.",
+    "Gender": "Male",
+    "attributes": "hair: brown; eyes: black; teeth: gold; clothing: shirt; accessories: ponk; expression: suspicion; strength: none; weakness: none;",
+    "UUID": "cc3c5c06-df96-4a0d-a09f-3359c21191f6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "211",
+    "Filename": "karashika-queen",
+    "Name": "karashika queen",
+    "Description": "A woman of the underworld that influences rich men into giving up their money.",
+    "Gender": "Female",
+    "attributes": "hair: white; eyes: glasses; teeth: none; clothing: blouse; accessories: fashion; expression: none; strength: design; weakness: boys;",
+    "UUID": "6e697e86-def8-4fb4-96c9-0f43ab9beea6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "212",
+    "Filename": "king-of-baldmen",
+    "Name": "king of baldmek",
+    "Description": "A man that was born bald and has never seen a hair on his head.",
+    "Gender": "Male",
+    "attributes": "hair: cap; eyes: black; teeth: none; clothing: shirt; accessories: fashion; expression: smirk; strength: deceit; weakness: none;",
+    "UUID": "5142f00b-10b5-47a5-ab8a-8ae71b255b04"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "213",
+    "Filename": "musa-masked-mouth",
+    "Name": "musa masked mouth",
+    "Description": "Musa uses a tape to cover his mouth to prevent him from talking too much.",
+    "Gender": "Male",
+    "attributes": "hair: cap; eyes: closed; teeth: none; clothing: shirt; accessories: fashion; expression: none; strength: dressing; weakness: none;",
+    "UUID": "9a5e7e95-6552-4a92-ab18-2154678943c2"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "214",
+    "Filename": "queen-of-smokers",
+    "Name": "queen of smokers",
+    "Description": "A chronic smoker looking for a spouse that will join her to die of smoking.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: glasses; teeth: smoke; clothing: blouse; accessories: none; expression: none; strength: none; weakness: smoking;",
+    "UUID": "eb32dfc0-29ee-49db-8833-37a41a6d6d65"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "215",
+    "Filename": "redlips-man",
+    "Name": "redlips man",
+    "Description": "A man that kissed a woman and got his lips burnt.",
+    "Gender": "Male",
+    "attributes": "hair: brown; eyes: blue; teeth: none; clothing: shirt; accessories: none; expression: frown; strength: chewing; weakness: none;",
+    "UUID": "4d649c12-05a5-44a4-b4ef-eb285b291aff"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "216",
+    "Filename": "sleevless-maid",
+    "Name": "sleevless maid",
+    "Description": "A girl that nevers wears long cloths and gets herself thrown out of churches for indecent dressing.",
+    "Gender": "Female",
+    "attributes": "hair: white; eyes: blue; teeth: none; clothing: shirt; accessories: tan; expression: none; strength: seduction; weakness: none;",
+    "UUID": "1cec0f65-2ee4-41a9-a30a-1f7aa9ccd112"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "217",
+    "Filename": "stephen-bluecap",
+    "Name": "stephen bluecap",
+    "Description": "Stephen always wears blue cap even to the church.",
+    "Gender": "Male",
+    "attributes": "hair: cap; eyes: black; teeth: none; clothing: shirt; accessories: fashion; expression: smile; strength: kindness; weakness: none;",
+    "UUID": "9b9de982-0f87-47ee-ae95-0b69b48d0cdf"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "218",
+    "Filename": "tinubu-gateman",
+    "Name": "tinubu gateman",
+    "Description": "Tinubu has been a gateman all his life.",
+    "Gender": "Male",
+    "attributes": "hair: cap; eyes: blue; teeth: tongue; clothing: shirt; accessories: fashion; expression: laugh; strength: laughter; weakness: none;",
+    "UUID": "c587932b-0b8c-4f70-8465-425a1f53df64"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "219",
+    "Filename": "vampire-girl",
+    "Name": "vampire girl",
+    "Description": "She dresses up as a vampire every haloween.",
+    "Gender": "Female",
+    "attributes": "hair: puff-puff; eyes: blue; teeth: two; clothing: blouse; accessories: none; expression: bite; strength: biting; weakness: none;",
+    "UUID": "3bba4477-d84a-440f-af66-12690ea8b2e4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "220",
+    "Filename": "yusuf-the-smoker",
+    "Name": "yusuf the smoker",
+    "Description": "A chronic smoker with damaged lungs.",
+    "Gender": "Male",
+    "attributes": "hair: cap; eyes: dark-brown; teeth: smoke; clothing: shirt; accessories: fashion; expression: smile; strength: dressing; weakness: smoking;",
+    "UUID": "2af7b970-e212-4627-b818-13c00c8d3a72"
+  },
+  {
+    "TEAM NAMES": "TEAM TAPE",
+    "Series Number": "221",
+    "Filename": "lola-hng-newbie",
+    "Name": "lola hng newbie",
+    "Description": "A confused hng participant that cannot understand her project.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: white; teeth: white; clothing: ankara; accessories: none; expression: surprised; strength: none; weakness: confused;",
+    "UUID": "0ddbd22c-b3bb-4c72-9f51-0361480bbfa7"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "222",
+    "Filename": "nene-caroline",
+    "Name": "nene caroline",
+    "Description": "A housewife that loves taking care of her family.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: white; teeth: none; clothing:ankara; accessories: none; expression: calm; strength: loving; weakness: novice;",
+    "UUID": "4ce5bcf3-d4ed-4277-8187-cb1797c1ac7e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "223",
+    "Filename": "wazo-partystopper",
+    "Name": "wazo partystopper",
+    "Description": "A Nigerian aunty that loves to attend owambe parties.",
+    "Gender": "Female",
+    "attributes": "hair:black; eyes: white; teeth: none; clothing: aso oke;  accessories: none; expression: proud; strength: energetic; weakness: none;",
+    "UUID": "77237cce-bae0-4d60-adad-27055f0eed39"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "224",
+    "Filename": "melanin-janet",
+    "Name": "melanin janet",
+    "Description": "A young lady with a soft personality.",
+    "Gender": "Female",
+    "attributes": "hair: brownish pink; eyes: white; teeth: none; clothing: english-ankara; accessories: none; expression: none; strength: calm; weakness: none;",
+    "UUID": "a5a2854e-a850-4b15-b3c3-176a79b2d34b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "225",
+    "Filename": "leo-sugarmummy",
+    "Name": "leo sugarmummy",
+    "Description": "A middle age wild yankee returnee.",
+    "Gender": "Female",
+    "attributes": "hair: pumpkin; eyes: blue; teeth: none; clothing: leopard skin; accessories: none; expression: wild; strength: none; weakness: none;",
+    "UUID": "7ec03993-f500-4a41-aa3c-a73df7a0fbed"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "226",
+    "Filename": "novice-joane",
+    "Name": "novice joane",
+    "Description": "A princess worried about finding true love.",
+    "Gender": "Female",
+    "attributes": "hair: pumpkin; eyes: blue; teeth: none; clothing: kente; accessories: none; expression: worried; strength: diligent; weakness: easily initimidated;",
+    "UUID": "a5d49163-41b1-43fe-ad7f-0c78ef530b1a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "227",
+    "Filename": "goofy-simbi",
+    "Name": "goofy simbi",
+    "Description": "An eccentric teenager that loves music.",
+    "Gender": "Female",
+    "attributes": "hair: pumpkin; eyes: blue; teeth: none; clothing: ankara; accessories: none; expression: indifferent; strength: none; weakness: unconventional behaviour;",
+    "UUID": "df7dc588-f99c-4592-84f6-08b40047d9d1"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "228",
+    "Filename": "akwaaba-ghana",
+    "Name": "akwaaba ghana",
+    "Description": "A depressed gothic introvert.",
+    "Gender": "Female",
+    "attributes": "hair: purple; eyes: blue; teeth: none; clothing: kente; accessories: none; expression: depressed  strength: none  weakness:weak;",
+    "UUID": "d1e8b38b-994b-487c-890b-9034d3ab7dcb"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "229",
+    "Filename": "aunty-toyin",
+    "Name": "aunty toyin",
+    "Description": "An oversabi family member.",
+    "Gender": "Female",
+    "attributes": "hair: pumpkin; eyes: blue; teeth: none; clothing: ankara; accessories: none; expression: carefree; strength: audacious; weakness: none;",
+    "UUID": "1326ef4b-224a-497e-9452-e63a4486e387"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "230",
+    "Filename": "pretty-hauwa",
+    "Name": "pretty hauwa",
+    "Description": "A young bride involved in an early marriage.",
+    "Gender": "Female",
+    "attributes": "hair: dark brown; eyes: blue; teeth: none; clothing: kente; accessories: none; expression: self-sufficient; strength: diligent; weakness: uncritical;",
+    "UUID": "7c771f82-a512-403c-91b9-6736318a8796"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "231",
+    "Filename": "chimamanda-enugu",
+    "Name": "chimamanda enugu",
+    "Description": "A young lady born during the war.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: black; teeth: none; clothing: ankara; accessories: none; expression: none; strength: none; weakness: none;",
+    "UUID": "eaad5c98-3f85-4480-9c4e-b73340cfba4f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "232",
+    "Filename": "kente-solape",
+    "Name": "kente solape",
+    "Description": "A respectful and diligent princess.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: black; teeth: none; clothing: ankara; accessories: none; expression: blanch; strength: bold; weakness: none;",
+    "UUID": "613ce65c-4b16-43f8-a0d9-b5ea8c5f2195"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "233",
+    "Filename": "vamp-karishika",
+    "Name": "vamp karishika",
+    "Description": "Queen of the darkness.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: black; teeth: white; clothing: gele; accessories: none; expression: shocked; strength: tough; weakness: bossy;",
+    "UUID": "c4ee8a54-0874-4a7f-8344-dea8ba41f5dc"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "234",
+    "Filename": "genz-monique",
+    "Name": "genz monique",
+    "Description": "A sassy lady with her own vibe.",
+    "Gender": "Female",
+    "attributes": "hair: pinkish-brown; eyes: black; teeth: none; clothing: ankara; accessories: none; expression: despiteful; strength: none; weakness: none;",
+    "UUID": "b5328f13-b918-4e76-8d4c-8b4aec5eb5fe"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "235",
+    "Filename": "femi-boltz",
+    "Name": "femi boltz",
+    "Description": "A driver hustling his way through life.",
+    "Gender": "Male",
+    "attributes": "hair: black; eyes: blue; teeth: none; clothing: ankara; accessories: none; expression: proud; strength: smart; weakness: none;",
+    "UUID": "03e8d36d-5bdc-4da4-8f64-c1738eb9d1db"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "236",
+    "Filename": "agba-tech",
+    "Name": "agba tech",
+    "Description": "A tech bro that loves to party but has bad communication skill.",
+    "Gender": "Male",
+    "attributes": "hair: black; eyes: blue; teeth: none; clothing: ankara; accessories: none; expression: proud; strength: smart; weakness: none;",
+    "UUID": "403f28a0-6aa7-4f80-997f-b0982c169baa"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "237",
+    "Filename": "brian-richkid",
+    "Name": "brian richkid",
+    "Description": "A trust fund baby that does not know how to manage money.",
+    "Gender": "Male",
+    "attributes": "hair: black; eyes: blue; teeth: none ; clothing: ankara; accessories: none; expression: proud ; strength: smart; weakness: none;",
+    "UUID": "9d945d79-dd2d-4755-b9c7-bff837be8557"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "238",
+    "Filename": "nandi-zulu",
+    "Name": "nandi zulu",
+    "Description": "A fierce African Queen.",
+    "Gender": "Female",
+    "attributes": "hair: pumpkin; eyes: brown; teeth: none; clothing: animal skin; accessories: none; expression: energetic; strength: smart; weakness: none;",
+    "UUID": "09702bc0-d10c-48d3-a1e9-2aaa4e9f3f39"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "239",
+    "Filename": "ade-demon",
+    "Name": "ade demon",
+    "Description": "A Lekki playboy that makes money from crypto.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: blue; teeth: none; clothing: ankara; accessories: none; expression: proud; strength: smart; weakness: none;",
+    "UUID": "0be2d50b-3e57-4e39-a199-b211d2be860c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "240",
+    "Filename": "karim-rapper",
+    "Name": "karim rapper",
+    "Description": "A young and proud Lagos rapper.",
+    "Gender": "Male",
+    "attributes": "hair: black; eyes: blue; teeth: none; clothing: ankara; accessories: none; expression: proud; strength: smart; weakness: none;",
+    "UUID": "169b58f8-b84a-4ab3-a4b6-d1c5b36aa1d3"
+  },
+  {
+    "TEAM NAMES": "TEAM AXLE",
+    "Series Number": "241",
+    "Filename": "bobo-alinco",
+    "Name": "bobo alinco",
+    "Description": "Alinco always in the mood for play.",
+    "Gender": "Male",
+    "attributes": "hair: orange; eyes: black; teeth: rabbit front teeth; clothing: white polo and blue pinafore; accessories: none; expression: unamused; strength: good listener; weakness: mostly unserious and plays roughly a lot;",
+    "UUID": "17e90692-26ec-4ac5-8613-d87d00278d37"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "242",
+    "Filename": "chi-lastborn",
+    "Name": "chi lastborn",
+    "Description": "Baby of the house, the lastborn of an average Nigerian family.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: blue bold eyes; teeth: none; clothing: animal print gown; accessories: none; expression: teary; strength: truthful; weakness: cannot keep a secret;",
+    "UUID": "187b9001-81a7-421b-aeea-ba64f930f6c3"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "243",
+    "Filename": "uju-robo-robo",
+    "Name": "uju robo robo",
+    "Description": "An aso-oke business woman at Balogun market.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: black and grey; teeth: missing two front tooth; clothing: grey and mixed color patterned ankara; accessories: ankara beret; expression: astonished; strength: business acumen; weakness: hot tempered;",
+    "UUID": "8b98de66-9a2b-4229-b0d9-297b2906f548"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "244",
+    "Filename": "yetunde-anifowose",
+    "Name": "yetunde anifowose",
+    "Description": "Old money lady who was in UK before UK was UK.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: brown; teeth: none; clothing: blue ankara; accessories: tobacco pipe; expression: serious; strength: wealthy; weakness: condescending;",
+    "UUID": "5646daa8-2619-46a5-ac93-9a49f862729a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "245",
+    "Filename": "dumebi-jjc",
+    "Name": "dumebi jjc",
+    "Description": "Innocent 100 level girl wey never spoil.",
+    "Gender": "Female",
+    "attributes": "hair: orange hair in two side buns; eyes: black; teeth: none; clothing: ankara blouse; accessories: none; expression: innocent; strength: curiousity; weakness: gullible;",
+    "UUID": "ed0148f9-491b-44e5-9b3b-07d3e8a48efe"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "246",
+    "Filename": "ukwu-nengi",
+    "Name": "ukwu nengi",
+    "Description": "Well endowed woman who will always make heads turn.",
+    "Gender": "Female",
+    "attributes": "hair: dark brown; eyes: black and grey; teeth: none; clothing: orange, blue, yellow and black ankara; accessories: none; expression: straight faced; strength: smart; weakness: cunny;",
+    "UUID": "32a9fc99-8b86-407d-9d66-2c9aaa8200e8"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "247",
+    "Filename": "nonso-malay",
+    "Name": "nonso malay",
+    "Description": "Nonso Malay is an enterprising man who made his fortune after he travelled abroad.",
+    "Gender": "Male",
+    "attributes": "hair: orange; eyes: squint; teeth: none and moustache; clothing: agbada; accessories: none; expression: mischevious smile; strength: action person; weakness: doesn't trust anyone;",
+    "UUID": "573f741e-7dfd-4145-a532-2cbf0194c5bd"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "248",
+    "Filename": "saro-texaco",
+    "Name": "saro texaco",
+    "Description": "An oil tycoon who dominates.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:black; teeth:white; clothing:agbada; accessories:cap; expression:smiling; strength:negotiations; weakness:stingy;",
+    "UUID": "ba8a51d0-24d6-43fe-bf56-12eb50f6fc4a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "249",
+    "Filename": "akpos-agbero",
+    "Name": "akpos agbero",
+    "Description": "A Warri boy always in the mood for violence.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:black; teeth:rabbit front teeth; clothing:brown polo and blue pinafore; accessories:cap; expression:angry; strength:physically fit; weakness:short-tempered;",
+    "UUID": "70875603-9e90-467f-9d44-af15f71b70e9"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "250",
+    "Filename": "kasali-danfo",
+    "Name": "kasali danfo",
+    "Description": "A danfo driver popular for his positive outlook of life.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:black; teeth:missing two front teeth; clothing:green polo and blue pinafore; accessories:chewing stick and bandana; expression:hopeful; strength:optimistic; weakness:over promises a lot;",
+    "UUID": "afaa2a41-1bc0-47bf-acef-d9638d6c5369"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "251",
+    "Filename": "osaz-benz",
+    "Name": "osaz benz",
+    "Description": "Osaz benz is an Edo born car dealer who buys only Mercedes Benz cars for his clients.",
+    "Gender": "Male",
+    "attributes": "hair:red; eyes:black; teeth:gold tooth; clothing:white polo and blue pinafore; accessories:none; expression:unamused; strength:technology savy; weakness:reckless;",
+    "UUID": "a11e8485-d8dd-4970-b0d3-cde7ab9f53e3"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "252",
+    "Filename": "kareem-kasanova",
+    "Name": "kareem kasanova",
+    "Description": "Abuja big boy who knows he can get any lady he wants.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:black; teeth:none; clothing:agbada; accessories:bubble gum and cap; expression:charming; strength:chivalry; weakness:unfaithful;",
+    "UUID": "9b765dd9-5d2f-4050-9583-4200e4b2d5d4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "253",
+    "Filename": "mayor-of-uyo",
+    "Name": "mayor of uyo",
+    "Description": "Essien is a top Lagos businessman who hails from Uyo.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:cyan and left side eyed; teeth:none; clothing:chieftancy; accessories:candy bar; expression:; strength:; weakness:loves women a lot;",
+    "UUID": "6ae4ca87-8d71-48e5-8098-fc5241a0ba36"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "254",
+    "Filename": "chinedu-china",
+    "Name": "chinedu china",
+    "Description": "An Nnewi blooded spareparts importer and exporter with goods from china.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:cyan; teeth:none; clothing:tied wrapper; accessories:none; expression:smirking; strength:business acumen; weakness:brags a lot;",
+    "UUID": "76a09cf1-b5fd-4bc0-bf61-0c0b9024b264"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "255",
+    "Filename": "papa-ekene",
+    "Name": "papa ekene",
+    "Description": "The oldest man of the Akwauzu clan.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:black; teeth:missing two teeth; clothing:ankara native top; accessories:chewing stick; expression:lighthearted; strength:always advising; weakness:talks too much;",
+    "UUID": "8b8d34d0-3d41-4170-aa3f-755beae83b00"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "256",
+    "Filename": "ogbeni-rauf",
+    "Name": "ogbeni rauf",
+    "Description": "Minister of enjoyment for Freedom state.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:squint; teeth:gold tooth; clothing:agbada; accessories:cap; expression:grinning; strength:persuasive speaker; weakness:manipulative;",
+    "UUID": "048f1180-33be-4a58-881e-22e7f0f96455"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "257",
+    "Filename": "koffi-banku",
+    "Name": "koffi banku",
+    "Description": "E be Charlie wey no dey use en stomach play.",
+    "Gender": "Male",
+    "attributes": "hair:orange afro hairstyle; eyes:azure and bold; teeth:missing two front teeth; clothing:wearing ankara print with white inner; accessories:none; expression:anticipating; strength:cooks well; weakness:always hungry for food;",
+    "UUID": "9699105f-607a-4c0b-81c0-373c6d35f4fe"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "258",
+    "Filename": "alhaji-bello",
+    "Name": "alhaji bello",
+    "Description": "Rich Hausa business mongul controlling half of cow production in Nigeria.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:squinting; teeth:missing a front tooth; clothing:ankara agbada; accessories:cap; expression:smiling; strength:wealthy; weakness:dishonest;",
+    "UUID": "1f0839dd-b4c9-4adb-9328-a2b4ceff999b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "259",
+    "Filename": "toju-mafejopami",
+    "Name": "toju mafejopami",
+    "Description": "Toju is a street hustler wey no like stress.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:closed; teeth:white with one gold tooth; clothing:yellow shirt with a blue jean pinafore; accessories:cap; expression:sleeping; strength:street smart; weakness:nonchalance;",
+    "UUID": "3c733806-3fd3-4c49-afd1-97f6a0802485"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "260",
+    "Filename": "femi-maserati",
+    "Name": "femi maserati",
+    "Description": "Rich kid who resides in Lekki, known by everybody because he drives a Maserati.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes:black and side-eyed; teeth:white; clothing:green polo and blue pinafore; accessories:bandana; expression:confident; strength:relatable and easily makes friends; weakness:shouts a lot",
+    "UUID": "dc5bb7ae-6280-4038-a0cc-6f7ba98bc5cf"
+  },
+  {
+    "TEAM NAMES": "TEAM POWERDRILL",
+    "Series Number": "261",
+    "Filename": "paul-the-comedian",
+    "Name": "paul the comedian",
+    "Description": "Paul trying hard to make everyone laugh so hard and fall off the chair",
+    "Gender": "Male",
+    "attributes": "hair:black; eyes: glasses; teeth: none; clothing: black and yellow v neck; expression: cool; strength: trustworthiness; weakness: slow",
+    "UUID": "f8112915-64ca-41e5-9ca4-5b60c47d7a01"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "262",
+    "Filename": "amina-lagos-housewife",
+    "Name": "amina lagos housewife",
+    "Description": "Amina is always showing the rich housewife vibes",
+    "Gender": "Female",
+    "attributes": "hair:red; eyes: blue; teeth: none; clothing: blue and yellow ankara; expression: straight face; strength: fashionista; weakness: exorbitant",
+    "UUID": "5612f542-d85e-4a2c-8661-20553dfd07bf"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "263",
+    "Filename": "kiekie-the-asoebibella",
+    "Name": "kiekie the asoebibella",
+    "Description": "Kiekie is classfied as the life of the party",
+    "Gender": "Female",
+    "attributes": "hair:purple; eyes: grey; teeth: none; clothing: blue and yellow ankara; expression: smile; strength: helpful",
+    "UUID": "097014d5-0ef3-46f5-9a9b-5c01f70114b3"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "264",
+    "Filename": "kunle-the-hunter",
+    "Name": "kunle the hunter",
+    "Description": "Kunle goes for the best and hits all his targets at bull's eye",
+    "Gender": "Male",
+    "attributes": "hair:black; eyes: blue; teeth: none; clothing: one handed yellow ankara; expression: smile; strength: fast; weakness: cannot speak english",
+    "UUID": "b0310fc2-4bed-48e5-abfc-566c964786d7"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "265",
+    "Filename": "amara-the-hairstylist",
+    "Name": "amara the hairstylist",
+    "Description": "Amara is truly your one stop shop for all your hair & beauty needs.",
+    "Gender": "Female",
+    "attributes": "hair:purple; eyes: grey; teeth: none; clothing: multicolour ankara; expression: none; strength: multitasker; weakness: unfriendly",
+    "UUID": "412345b9-7e04-4102-af7c-5458721ac64d"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "266",
+    "Filename": "mary-nail-technician",
+    "Name": "mary nail technician",
+    "Description": "Mary makes magic with her press-on nails",
+    "Gender": "Female",
+    "attributes": "hair:red; eyes: grey; teeth: none; clothing: multicolour ankara; expression: none; strength: hustler; weakness: uncoordinated",
+    "UUID": "17ea9c3b-c90f-4023-84d6-d563c098b030"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "267",
+    "Filename": "odogwu-oil-contractor",
+    "Name": "odogwu oil contractor",
+    "Description": "From Malaysia to Kaduna, Odogwu's oil is known.",
+    "Gender": "Male",
+    "attributes": "hair:black; eyes: black with glasses; teeth: none; clothing: brown and gold guniea; expression: none; strength: hustler; weakness: taking criticism",
+    "UUID": "b503bbfb-f972-4d4a-9352-e9dfe6671d36"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "268",
+    "Filename": "simisola-the-kenteprincess",
+    "Name": "simisola the kenteprincess",
+    "Description": "Simisola rocks kente even in swim outfits",
+    "Gender": "Female",
+    "attributes": "hair:brown; eyes: blue; teeth: none; clothing: multicolour yellow kente; expression: smiling; strength: patience; weakness: self-criticism",
+    "UUID": "45843017-b421-4413-8e35-7a6ef073f2b9"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "269",
+    "Filename": "mariam-beauty-queen",
+    "Name": "mariam beauty queen",
+    "Description": "Beauty is a fairy tale where Mariam appears.",
+    "Gender": "Female",
+    "attributes": "hair:orange; eyes: grey; teeth: none; clothing: multicolour yellow kente; expression: straight face; strength: disciplined; weakness: inability to delegate",
+    "UUID": "b7d96d97-84c2-485f-b60e-e4e86c4d3b34"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "270",
+    "Filename": "obinna-the-musician",
+    "Name": "obinna the musician",
+    "Description": "Obinna might never be an a-list artist",
+    "Gender": "Male",
+    "attributes": "hair:black; eyes: black with glasses; teeth: none; clothing: red v-neck ankara; expression: none; strength: delegation; weakness: lack of experience",
+    "UUID": "afdb0299-327c-46b2-9262-faf90f0fcd12"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "271",
+    "Filename": "sandra-the-shybaby",
+    "Name": "sandra the shybaby",
+    "Description": "Sandra is too shy at parties",
+    "Gender": "Female",
+    "attributes": "hair:orange; eyes: blue; teeth: none; clothing: yellow off shoulder; expression: none; strength: friendly; weakness: shyness",
+    "UUID": "bfed40a8-74f7-4ada-ae18-975130247efa"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "272",
+    "Filename": "chiamaka-the-dancer",
+    "Name": "chiamaka the dancer",
+    "Description": "Chiamaka dances so well and earned the Guinness world record.",
+    "Gender": "Female",
+    "attributes": "hair:black; eyes: grey; teeth: none; clothing: yellow off shoulder; expression: none; strength: creativity; weakness: lack of confidence",
+    "UUID": "43c49497-8d7b-42ef-bb29-769f6c3b0ada"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "273",
+    "Filename": "mensah-fashion-icon",
+    "Name": "mensah fashion icon",
+    "Description": "Mensah outfits are always giving us Christopher Hemsworth vibes.",
+    "Gender": "Male",
+    "attributes": "hair:black; eyes: black with glasses; teeth: none; clothing: gold with kente; expression: none; strength: public speaking; weakness: lack of experience",
+    "UUID": "87ada09b-38ac-475c-8d46-18680c2dc795"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "274",
+    "Filename": "lucy-the-fumigator",
+    "Name": "lucy the fumigator",
+    "Description": "Lucy is nicknamed the pest hilter",
+    "Gender": "Female",
+    "attributes": "hair:red; eyes: blue; teeth: none; clothing: multicolour ankara; expression: none; strength: determination; weakness: self-criticism",
+    "UUID": "c7269d44-aab3-41e7-a54f-18a14f575a6b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "275",
+    "Filename": "nneka-wedding-planner",
+    "Name": "nneka wedding planner",
+    "Description": "Nneka plans the best weddings with great details.",
+    "Gender": "Female",
+    "attributes": "hair:brown braids; eyes: grey; teeth: none; clothing: multicolour ankara; expression: none; strength: hard worker; weakness:analytical skills",
+    "UUID": "31ac6b7a-e378-4dc3-999d-b9e8d8473f99"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "276",
+    "Filename": "shakira-the-gangster",
+    "Name": "shakira the gangster",
+    "Description": "Shakira is the most feared criminal.",
+    "Gender": "Female",
+    "attributes": "hair:brown braids; eyes: grey; teeth: none; clothing: gold and brown; expression: none; strength: intentional; weakness: rash in decisin making",
+    "UUID": "dbdc1351-aa07-46e2-935f-2db071b1b23d"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "277",
+    "Filename": "lola-afropopping-princess",
+    "Name": "lola afropopping princess",
+    "Description": "Lola licks lollipops like an afropop queen",
+    "Gender": "Female",
+    "attributes": "hair:brown afro; eyes: closed; teeth: none; clothing: black ankara; expression: none; strength: great communicator; weakness:writing",
+    "UUID": "2f5cadae-e423-4478-8220-37b3ac144169"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "278",
+    "Filename": "sharon-walking-dead",
+    "Name": "sharon walking dead",
+    "Description": "When tired Sharon walks like the dead",
+    "Gender": "Female",
+    "attributes": "hair:dark brown; eyes: closed; teeth: open teeth; clothing: blue ankara; expression: loud; strength: people skills; weakness:empathy",
+    "UUID": "1fc37341-7dd1-480c-a01b-a63bee0a2230"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "279",
+    "Filename": "olivia-great-teacher",
+    "Name": "olivia great teacher",
+    "Description": "Students enjoys Olivia's classes",
+    "Gender": "Female",
+    "attributes": "hair:dark brown; eyes: closed; teeth: none; clothing: multicolour ankara; expression: none; strength: empathy; weakness: computer literacy",
+    "UUID": "cfc4419e-bd46-40f6-9654-632ac1138ff1"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "280",
+    "Filename": "nicole-sleep-warrior",
+    "Name": "nicole sleep warrior",
+    "Description": "Nicole holds the sleep award in our community, she wouldn't wake up at the sound of a detonated nuclear bomb.",
+    "Gender": "Female",
+    "attributes": "hair:black; eyes: closed; teeth: none; clothing: multicolour ankara with red base; expression: none; strength: leadership; weakness: initiative",
+    "UUID": "710ae821-4603-4124-bd60-a33b515b3b8d"
+  },
+  {
+    "TEAM NAMES": "TEAM HYDRAULICS",
+    "Series Number": "281",
+    "Filename": "busola-the-shakara",
+    "Name": "busola the shakara",
+    "Description": "She is a fashion icon that loves luxurious items.",
+    "Gender": "Female",
+    "attributes": "hair: brown eyes: shades teeth: closed clothing: yellow and blue ankara accessories: shades expression: passive strength: confident weakness: over-spending",
+    "UUID": "ec4a855a-5ceb-4f1b-bbd7-a995aa45e875"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "282",
+    "Filename": "bella-the-artist",
+    "Name": "bella the artist",
+    "Description": "A lady that host a fashion week show",
+    "Gender": "Female",
+    "attributes": "hair: blond eyes: shades teeth: closed clothing: black and yellow ankara accessories: shades expression: straight-face strength: creativity weakness: perfectionist",
+    "UUID": "48772412-dacb-4984-9e82-8d24fe101265"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "283",
+    "Filename": "queen-the-extrovert",
+    "Name": "queen the extrovert",
+    "Description": "A woman who enjoys being high all the time",
+    "Gender": "Female",
+    "attributes": "hair: brown eyes: shades teeth: closed clothing: multi-colored ankara accessories: shades; smoking pipe expression: sassy strength: self-assured weakness: conceited",
+    "UUID": "1712532a-20d9-4ccb-8582-bffd76c9fb67"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "284",
+    "Filename": "mary-toxic-lady",
+    "Name": "mary toxic lady",
+    "Description": "A lady who's toxic around people",
+    "Gender": "Female",
+    "attributes": "hair: two buns eyes: shades teeth: white clothing: animal prints accessories: shades expression: angry strength: bully weakness: insecurity",
+    "UUID": "bc31af8d-c45d-4797-adfc-596fb22e4e3a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "285",
+    "Filename": "elizabeth-the-richkid",
+    "Name": "elizabeth the richkid",
+    "Description": "A university undergraduate from a rich background",
+    "Gender": "Male",
+    "attributes": "hair: blond eyes: shades teeth: closed clothing: blacktop accessories: shades expression: straight-face strength: wealth weakness: lack of real friends",
+    "UUID": "21fad782-1b6f-4c2d-b157-9fdb9355c876"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "286",
+    "Filename": "larry-the-westerner",
+    "Name": "larry the westerner",
+    "Description": "A Yoruba Man who smokes his pipe in peace",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: white teeth: closed clothing: purple and yellow agbada accessories: cap; smoking pipe expression: passive strength: likes to be in control weakness: lazy",
+    "UUID": "d4984fa6-dabf-409f-839f-76742ec71500"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "287",
+    "Filename": "danjuma-the-shocked",
+    "Name": "danjuma the shocked",
+    "Description": "A pensioneer who got told his bank is on distress",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: white teeth: white clothing: wrapper across one shoulder accessories: cap expression: shocked strength: hard-worker weakness: shyness",
+    "UUID": "0187ca7f-f3b1-42ae-9e17-c46d58617608"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "288",
+    "Filename": "yomi-the-fashionista",
+    "Name": "yomi the fashionista",
+    "Description": "Winner of the Lagos GT Bank fashion week.",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: white teeth: white clothing: wrapper across one shoulder accessories: cap expression: shocked strength: hard-worker weakness: lack of wealth",
+    "UUID": "16d256ba-dc4e-4559-ae41-59779f351ad3"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "289",
+    "Filename": "ibu-the-importer",
+    "Name": "ibu the importer",
+    "Description": "A rich igbo trader who imports goods in onitsha market",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: light blue teeth: white and a gold tooth clothing: isi-agu accessories: cap expression: straight-face strength: wealth weakness: irrational",
+    "UUID": "d3edc876-3f2f-4699-a376-0787bb06c5d5"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "290",
+    "Filename": "massa-the-ghanian",
+    "Name": "massa the ghanian",
+    "Description": "A rich Ghanian trader.",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: closed teeth: white clothing: akan accessories: cap expression: happy strength: wealth weakness: irrational",
+    "UUID": "9a9a5fbd-7a3c-469c-95f2-50303c2e9fc8"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "291",
+    "Filename": "james-the-musician",
+    "Name": "james the musician",
+    "Description": "A yoruba juju artist",
+    "Gender": "Male",
+    "attributes": "hair: brown eyes: closed teeth: white clothing: akan accessories: none expression: happy strength: good voice weakness: womanizer",
+    "UUID": "0d4ad447-3836-47cd-8387-066b200cda01"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "292",
+    "Filename": "gbenga-titled-man",
+    "Name": "gbenga titled man",
+    "Description": "A yoruba chief who is also a car dealer",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: light blue teeth: white with a gold tooth clothing: akan accessories: none expression: emotional strength: friendly weakness: deceitful",
+    "UUID": "dc6c1a39-ec78-44ca-8296-68c6de7b5de4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "293",
+    "Filename": "abaga-the-rapper",
+    "Name": "abaga the rapper",
+    "Description": "A flashy millionaire and a music rapper",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: closed teeth: white clothing: dongri and yellow t-shirt accessories: cap expression: happy strength: wealth weakness: recklessness",
+    "UUID": "c428411c-5a06-4b74-bd17-e53b76f9fc6c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "294",
+    "Filename": "izuchukwu-the-fisherman",
+    "Name": "izuchukwu the fisherman",
+    "Description": "A fisherman who knows how to paddle well",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: closed teeth: white with a gap tooth clothing: green shirt accessories: cap expression: dozzy strength: great body-build weakness: drunkard",
+    "UUID": "15e1caf2-06b3-45d8-9b35-f95965b64e34"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "295",
+    "Filename": "mark-the-philanthropist",
+    "Name": "mark the philanthropist",
+    "Description": "A London based philantropist.",
+    "Gender": "Male",
+    "attributes": "hair: brown eyes: white teeth: closed clothing: white and blue shirt accessories: none expression: irritated strength: philanthropist weakness: anger issues",
+    "UUID": "b48cbd98-96c2-4ec4-9d17-2c798be5b90f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "296",
+    "Filename": "desmond-the-politician",
+    "Name": "desmond the politician",
+    "Description": "A young politician who just became a minister",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: grey teeth: closed clothing: yellow and purple agbada accessories: ila expression: smirk strength: team player weakness: deceitful",
+    "UUID": "c52d4fbb-622b-4e2b-85a9-1a1d0f3d97d6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "297",
+    "Filename": "okoro-the-bachelor",
+    "Name": "okoro the bachelor",
+    "Description": "A local palm wine tapper with hopes and dreams",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: grey teeth: white and a gold tooth clothing: wrapper across one shoulder accessories: cap expression: pretense strength: motivated weakness: poor",
+    "UUID": "e441439d-49a3-41eb-bf9d-3c7f98c268bf"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "298",
+    "Filename": "saro-the-clothemaker",
+    "Name": "saro the clothemaker",
+    "Description": "The yoruba man that stole the king's wife.",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: grey teeth: white clothing: red and yellow agbada accessories: cap expression: straight face strength: good-looking weakness: womanizer",
+    "UUID": "7e10af4e-1252-4f96-83a8-78411e152bae"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "299",
+    "Filename": "kalu-the-ichie",
+    "Name": "kalu the ichie",
+    "Description": "A man of wealth with afluence spreading all over the east",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: sky-blue teeth: white clothing: orange plain and pattern shirt accessories: cap expression: happy strength: wealth weakness: pride",
+    "UUID": "482ab247-73a4-4ff8-9172-732f3d0729b8"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "300",
+    "Filename": "tamuno-the-prince",
+    "Name": "tamuno the prince",
+    "Description": "An Ijaw prince who is also the heir to the throne",
+    "Gender": "Male",
+    "attributes": "hair: covered eyes: sky-blue teeth: closed clothing: akan  accessories: cap expression: straight-face strength: caring weakness: easily deceived",
+    "UUID": "108447d1-f2d5-4816-8ebb-599286c3fabf"
+  },
+  {
+    "TEAM NAMES": "TEAM SCALE",
+    "Series Number": "301",
+    "Filename": "wendy-the -banker",
+    "Name": "wendy the  banker",
+    "Description": "Wendy loves working in the bank, as she gets to meet different people.",
+    "Gender": "Female",
+    "attributes": "hair: dark red   eyes: blue  teeth:none  clothing: blue and yellow ankara   accessories: none  expression: shocked  strength: none   weakness: none",
+    "UUID": "587645e2-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "302",
+    "Filename": "uduak-the -dark horse",
+    "Name": "uduak the dark horse",
+    "Description": "Uduak looks innocent and has the whole apartment bugged",
+    "Gender": "Female",
+    "attributes": "hair: brown   eyes: blue   teeth:none   clothing: multi-colored ankara  accessories: none  expression: witty  strength: none   weakness: none",
+    "UUID": "58764862-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "303",
+    "Filename": "timeyin-the -eccentic",
+    "Name": "timeyin the eccentic",
+    "Description": "Timeyin is as eccentric as they come with no care for others opinions",
+    "Gender": "Female",
+    "attributes": "hair: brown   eyes: blue   teeth:none   clothing: multi-colored ankara  accessories: smoking pipe  expression: high  strength: none   weakness: none",
+    "UUID": "58764a2e-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "304",
+    "Filename": "omawunmi-the -businesswoman",
+    "Name": "omawunmi the businesswoman",
+    "Description": "Omawunmi is a no-nonsense woman with a shop in idumota",
+    "Gender": "Female",
+    "attributes": "hair: pink   eyes: blue   teeth: white teeth   clothing: yellow ankara  accessories: none  expression: angry  strength: none   weakness: none",
+    "UUID": "58764b78-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "305",
+    "Filename": "halima-the-housewife",
+    "Name": "halima the housewife",
+    "Description": "Halima loves to bake and cook for her children",
+    "Gender": "Female",
+    "attributes": "hair: brown  eyes: blue   teeth: none   clothing: ankara designed with yellow; red and green  accessories: none  expression: tired   strength: none   weakness: none",
+    "UUID": "58764d8a-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "306",
+    "Filename": "muna-the -block sister",
+    "Name": "muna the block sister",
+    "Description": "Muna loves to tell everyone in the block about her younger escapades",
+    "Gender": "Female",
+    "attributes": "hair: black  eyes: blue   teeth: none  clothing: wolf-skin ankara  accessories: headgear  expression: shocked  strength: none   weakness: none",
+    "UUID": "58764ea2-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "307",
+    "Filename": "stella-the -gossip",
+    "Name": "stella the gossip",
+    "Description": "Nobody gossips on the block like stella when smoking.",
+    "Gender": "Female",
+    "attributes": "hair: red  eyes: covered eyes  teeth: none  clothing: black ankara with bright design   accessories: none  expression: calm  strength: none   weakness: none",
+    "UUID": "58764fd8-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "308",
+    "Filename": "agbani-the-wannabe",
+    "Name": "agbani the wannabe",
+    "Description": "Agbani loves to shop antique ndecorations for her mansion in idi-iroko",
+    "Gender": "Female",
+    "attributes": "hair: purple hair  eyes: covered eyes   teeth: none   clothing: blue one-armed dress   accessories: none  expression: happy  strength: none   weakness: none",
+    "UUID": "5876542e-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "309",
+    "Filename": "asante-the -warrior",
+    "Name": "asante the warrior",
+    "Description": "Asante came from along line of warriors in Ghana",
+    "Gender": "Female",
+    "attributes": "hair: pink braids  eyes: covered eyes   teeth: none  clothing: one-armed brightly colored dress  accessories: none  expression: calm   strength: none   weakness: none",
+    "UUID": "58765578-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "310",
+    "Filename": "hilda-the -insomaniac",
+    "Name": "hilda the insomaniac",
+    "Description": "Hilda prefers to sleep during the day",
+    "Gender": "Female",
+    "attributes": "hair: pink   eyes: covered eyes   teeth: none   clothing: multi colored ankara   accessories: none  expression:calm   strength: none   weakness: none",
+    "UUID": "5876569a-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "311",
+    "Filename": "sisi yemi-the -street aunty",
+    "Name": "sisi yemi the street aunty",
+    "Description": "Sisi Yemi is everyone's favourite street aunty.",
+    "Gender": "Female",
+    "attributes": "hair: dark brown   eyes: brown eyes  teeth: none   clothing: blue and yellow ankara  accessories: none  expression: shocked   strength: none   weakness: none",
+    "UUID": "587657a8-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "312",
+    "Filename": "chiamaka-the -bully",
+    "Name": "chiamaka the bully",
+    "Description": "Chiamaka hates people in her business and likes to scare the kids on the block",
+    "Gender": "Female",
+    "attributes": "hair: pink  eyes: brown  teeth: none  clothing: multi-colored ankara  accessories: smoking pipe  expression: strong  strength: none   weakness: none",
+    "UUID": "587658ca-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "313",
+    "Filename": "gift-the-fashionista",
+    "Name": "gift the fashionista",
+    "Description": "Gift has always been bold and that spreads to her fashion sense too.",
+    "Gender": "Female",
+    "attributes": "hair: brown   eyes: brown   teeth :none   clothing: multi-colored ankara  accessories: none  expression: witty  strength: none   weakness: none",
+    "UUID": "58765adc-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "314",
+    "Filename": "omoyene-the-weirdo",
+    "Name": "omoyene the weirdo",
+    "Description": "Omoyene likes to murmur to herself and talks about seeing ghosts",
+    "Gender": "Female",
+    "attributes": "hair: brown  eyes: brown  teeth: none  clothing: yellow ankara  accessories: none  expression: calm  strength: none  weakness: none",
+    "UUID": "58765bea-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "315",
+    "Filename": "maria-the -freshface",
+    "Name": "maria the freshface",
+    "Description": "Maria likes to believe the world is sunshine and rainbows while blowing gum",
+    "Gender": "Female",
+    "attributes": "hair: pink  eyes: brown eyes  teeth: white teeth  clothing:yellow; greem and red ankara   accessories: none  expression: furious   strength: none   weakness: none",
+    "UUID": "58765d02-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "316",
+    "Filename": "monica-the -smoker",
+    "Name": "monica the smoker",
+    "Description": "Monica is never found without a pipe and loves to interject in every conversation",
+    "Gender": "Female",
+    "attributes": "hair: grey   eyes: covered eyes  teeth: none  clothing: black ankara with bright designs  accessories: yellow glasses  expression: hip   strength: none   weakness: none",
+    "UUID": "58765e24-5ace-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "317",
+    "Filename": "janet -is always -found singing",
+    "Name": "janet the singer",
+    "Description": "Janet is always found singing in whatever activity she’s doing",
+    "Gender": "Female",
+    "attributes": "hair: purple   eyes: covered eyes  teeth: none  clothing: yellow and blue ankara  accessories: yellow glasses  expression: cool  strength: none   weakness: none",
+    "UUID": "cef902bc-5afc-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "318",
+    "Filename": "emi-the-reggae-girl",
+    "Name": "emi the reggae girl",
+    "Description": "EMi is a beautiful dancer",
+    "Gender": "Female",
+    "attributes": "hair:pink braids   eyes: covered eyes   teeth: none  clothing: multicolored ankara  accessories: yellow glasses  expression: happy  strength: none   weakness: none",
+    "UUID": "cef9060e-5afc-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "319",
+    "Filename": "aisha-love-the-life-of-the-party",
+    "Name": "aisha love the life of the party",
+    "Description": "Aisha always party during the weekend",
+    "Gender": "Female",
+    "attributes": "hair: red   eyes: covered eyes  teeth: none  clothing: wolf-skin ankara  accessories: yellow glasses  expression: hip  strength: none   weakness: none",
+    "UUID": "cef907a8-5afc-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "320",
+    "Filename": "amaka-the-tailor",
+    "Name": "amaka the tailor",
+    "Description": "She sews the most beautiful dress in the hood",
+    "Gender": "Female",
+    "attributes": "hair:grey  eyes: covered eyes   teeth: none  clothing: black dress  accessories: yellow glasses  expression: happy  strength: none   weakness: none",
+    "UUID": "cef9091a-5afc-11ed-9b6a-0242ac120002"
+  },
+  {
+    "TEAM NAMES": "TEAM SANDPAPER",
+    "Series Number": "321",
+    "Filename": "omunyinyi-the-stoic",
+    "Name": "omunyinyi the stoic",
+    "Description": "omunyinyi wears a Kitenge coat",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: tearyteeth: noneskin: brownskinclothing: checked ankara accessories: none expression: teary strength: powerful weakness: self-loathing",
+    "UUID": "c2d6a3ac-1d4d-4268-ba7f-4f0f8f50c1ab"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "322",
+    "Filename": "kamau-the-sleeper",
+    "Name": "kamau the sleeper",
+    "Description": "closed eyes meditating",
+    "Gender": "Male",
+    "attributes": "hair: blad eyes: closed teeth:  noneskin: brownskin clothing: black ankara accessories: none expression: flat strength: open to suggestion weakness: always sleepy",
+    "UUID": "20330f5c-40c2-4f6a-b9d8-d1d04fb97daf"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "323",
+    "Filename": "mutiso-the-lastborn",
+    "Name": "mutiso the lastborn",
+    "Description": "masked up mutiso dozing off",
+    "Gender": "Male",
+    "attributes": "hair:bald eyes: closed teeth: none skin: brownskin clothing: yellow ankara accessories: none  expression: tired strength: consistency weakness: pessismist",
+    "UUID": "0706c338-42eb-4d26-84ea-c24b39628200"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "324",
+    "Filename": "omondi-the-vegeterian",
+    "Name": "omondi the vegeterian",
+    "Description": "omondi wears a green coat",
+    "Gender": "Male",
+    "attributes": "hair:bald eyes: sharp eyed teeth: none skin: brownskin clothing: green ankara accessories: none expression: alert strength: leader weakness: anxious",
+    "UUID": "bfb5e8d5-d7a7-4aa8-85e8-d7d9afd4adb3"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "325",
+    "Filename": "barasa-the-optimist",
+    "Name": "barasa the optimist",
+    "Description": "looks up to the sky and makes a wish",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: blue teeth: none skin: dark skin clothing: brown ankara accessories:none expression: awake strength: strong willed weakness: immoral",
+    "UUID": "2da4bef4-38cc-4414-99ad-7361fac04b2b"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "326",
+    "Filename": "mwembu-the-elder",
+    "Name": "mwembu the elder",
+    "Description": "old but not so old, with yellow his favorite color",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: black teeth: none skin: dark skin clothing: dark ankara accessories: none  expression: plain strength: fulfilled weakness: angry",
+    "UUID": "36181230-6ac9-417f-af5c-23bdd2c25ecb"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "327",
+    "Filename": "mbogi-the-fighter",
+    "Name": "mbogi the fighter",
+    "Description": "masked up mbogi after capture",
+    "Gender": "Male",
+    "attributes": "hair: baldeyes:  blackteeth: noneskin: darkskin clothing: onesideankara accessories: noneexpression: willfull strength: fighter  weakness: rebellious",
+    "UUID": "3a7bc3c4-1463-42ce-84c9-07337da64435"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "328",
+    "Filename": "mrosho-the-runner",
+    "Name": "mrosho the runner",
+    "Description": "masked up mrosho",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: sea blue teeth: none skin: darkskin clothing: purple ankara accessories: none expression: alert  strength: visionary  weakness: destructive",
+    "UUID": "b2ca2c76-3b6d-43f1-8cc9-089b6ab83876"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "329",
+    "Filename": "milele-the-african",
+    "Name": "milele the african",
+    "Description": "milele with a nice african print in orange",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: blue teeth: none skin: dark skin clothing: orange ankara accessories: none expression: timid strength: leader weakness: failure",
+    "UUID": "644b0259-d75c-456d-934c-ce7c052bad3a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "330",
+    "Filename": "olebon-the-oloibon",
+    "Name": "olebon the oloibon",
+    "Description": "olebon in customized buba sokoto",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: closed teeth: none skin: darkskin clothing: animal print accessories: none expression: surprised strength: empathy   weakness: easily bored",
+    "UUID": "de261efe-731d-461e-b2e4-42edd2f48f72"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "331",
+    "Filename": "chifu-the-maasai",
+    "Name": "chifu the maasai",
+    "Description": "clothing inspired by maasai shuka",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: closed teeth: none skin: none clothing: ankara shirt accessories: none expression: visionary strength:  authentic weakness: selfish",
+    "UUID": "239933c4-7177-4b5b-86e8-e6f952301344"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "332",
+    "Filename": "mwangaa-the-voice",
+    "Name": "mwangaa the voice",
+    "Description": "mwangaa the chief",
+    "Gender": "Male",
+    "attributes": "hair:  bald eyes: blue teeth: none skin: darkskin clothing: white lined ankara accessories: none expression: kindness strength:  brave weakness: impatient",
+    "UUID": "49179b62-812d-4d0f-b518-4af7fa79f8bc"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "333",
+    "Filename": "waforte-the-first",
+    "Name": "waforte the first",
+    "Description": "masked up man who does sleep a lot",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: closedteeth:none skin: darkskin clothing: jean ankara accessories: none expression: shy strength:  weakness: selfish",
+    "UUID": "871912a8-d96e-4594-b7b3-450d94ee6924"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "334",
+    "Filename": "kariuki-the-prayerful-one",
+    "Name": "kariuki the prayerful one",
+    "Description": "kariuki closes his eyes",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: closed eyes teeth: skin: clothing: accessories: expression: bored strength: intelligent  weakness: passive",
+    "UUID": "6a5b6fa6-0f91-4b01-957f-c766945eb704"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "335",
+    "Filename": "kenyanese-the-priest",
+    "Name": "kenyanese the priest",
+    "Description": "masked up man with with white cloth",
+    "Gender": "Male",
+    "attributes": "hair: bald eyes: white teeth: none skin: darkskin clothing: white jean shirt accessories: none expression: calculative strength: kind weakness: takes things personally",
+    "UUID": "0706c338-42eb-4d26-84ea-c24b39628200"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "336",
+    "Filename": "nyimbo-the-singer",
+    "Name": "nyimbo the singer",
+    "Description": "glasses and a pot for the night",
+    "Gender": "Female",
+    "attributes": "hair:dreadlocks eyes: glassed up teeth:none skin: brownskin clothing: off shoulder ankara accessories: a pot expression: free spirited strength: fair weakness: impatient",
+    "UUID": "d05af807-b3e9-4ad3-8df1-b7864d2daa33"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "337",
+    "Filename": "maathai-the-nobel-winner",
+    "Name": "maathai the nobel winner",
+    "Description": "mathaai the warrior",
+    "Gender": "Female",
+    "attributes": "hair: pink afro eyes: glassed up teeth: none skin: brownskin clothing: colored ankara accessories: noneexpression: strict strength: leadership  weakness:short sighted",
+    "UUID": "0871cb8c-8d56-445d-92c7-01793f327707"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "338",
+    "Filename": "tish-the-angry-one",
+    "Name": "tish the angry one",
+    "Description": "angry tish with specs on",
+    "Gender": "Female",
+    "attributes": "hair: black huge afro eyes:  none teeth: broken teeth skin: brownskin clothing: offshoulder ankara accessories: none expression: disgusted strength: blunt weakness:greedy",
+    "UUID": "750a89dc-44ff-43bf-8211-b7776f1b5e52"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "339",
+    "Filename": "wamenza-the-winner",
+    "Name": "wamenza the winner",
+    "Description": "wamenza the leader",
+    "Gender": "Female",
+    "attributes": "hair: laid back eyes: none teeth: none skin: brownskin clothing: offshoulder ankara accessories: noneexpression: meditative strength: strict weakness: impulsive",
+    "UUID": "7348c9ed-4ac9-4785-9434-0a1f0dcaf8d8"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "340",
+    "Filename": "isaya-the-track-king",
+    "Name": "isaya the track king",
+    "Description": "isaya the traveller",
+    "Gender": "Male",
+    "attributes": "hair: none eyes: glassed up teeth: none skin: brown skin clothing: bright ankara accessories: none expression: taken aback strength: straight forward weakness: selfish",
+    "UUID": "41781a16-d2b8-4fc6-a1f4-b9fffc5c95ba"
+  },
+  {
+    "TEAM NAMES": "TEAM RULER",
+    "Series Number": "341",
+    "Filename": "mansur-the-partyrider",
+    "Name": "mansur the partyrider",
+    "Description": "Mansur is the life of a party and never caught dulling.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: ash grey; teeth: none;  clothing: agbda; accessories: studs; expression:happy; strength: intelligent; weakness: red whine;",
+    "UUID": "78db0f29-3936-4d9c-bb90-3dbf20dba2dd"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "342",
+    "Filename": "tola-the-businessman",
+    "Name": "tola the businessman",
+    "Description": "Tola loves business and owns several shops in Idumota.",
+    "Gender": "Female",
+    "attributes": "hair: none; eyes: midnightblack; teeth: none;  clothing: purple blowse; accessories: mask; expression:furious; strength: powerful; weakness: love;",
+    "UUID": "1c5d5a6b-cf04-4bf9-978e-22a7e9bc5819"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "343",
+    "Filename": "abdullahi-the-honorable",
+    "Name": "abdullahi the honorable",
+    "Description": "Popularly called \"buje budanu\" a godfather who lavishes money on young gees.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: blue-blackish; teeth: none;  clothing: yoruba attire; accessories: none; expression:anxious; strength: foreseer; weakness:indecision;",
+    "UUID": "dd708276-445f-4483-8357-fc08e999328f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "344",
+    "Filename": "ojukwu-the-badguy",
+    "Name": "ojukwu the badguy",
+    "Description": "Ojukwu is a business minded guy but fun to be with.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes: eagle eyeball; teeth: none;  clothing: yellow lining blowse; accessories: none; expression: none; strength: good eyes for fashion; weakness: lack will power;",
+    "UUID": "76c1eabf-15ea-446a-8426-472982c4d800"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "345",
+    "Filename": "odunsi-the-egbonadugbo",
+    "Name": "odunsi the egbonadugbo",
+    "Description": "Odunsi loves to advise and people in the community rely on him.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: dark brown; teeth: none; clothing: one shoulder gown; accessories: none; expression: none; strength: elegant; weakness: easily depressed;",
+    "UUID": "2912ab8b-5875-4277-a5c2-a0209aee90ae"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "346",
+    "Filename": "ogogo-the-sugardaddy",
+    "Name": "ogogo the sugardaddy",
+    "Description": "A rich oil magnate who loves to solve young women's problems with his millions.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: cat eyes; teeth: none; clothing: purple danshiki; accessories:nose mask; expression: straight face; strength: brave ; weakness: too selfless;",
+    "UUID": "aa575f30-04ad-45f9-a798-199465117793"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "347",
+    "Filename": "suli-the-amalaseller",
+    "Name": "suli the amalaseller",
+    "Description": "Suli sells amala with respect and people say that's the secret to her sweet food.",
+    "Gender": "Female",
+    "attributes": "hair: low punk; eyes: cat eyes; teeth: none; clothing:brown babarigai; accessories:none; expression: furious; strength: wealthy; weakness: too emotional;",
+    "UUID": "46fd4821-04dd-4f65-9290-c130a00c4c93"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "348",
+    "Filename": "dolapo-the-afrocentric",
+    "Name": "dolapo the afrocentric",
+    "Description": "Dolapo loves African prints and loves to showcase culture.",
+    "Gender": "Female",
+    "attributes": "hair:bald; eyes: brown; teeth: none; clothing: one sided blowse; accessories: nose mask; expression: none; strength: beautiful; weakness: forgetful;",
+    "UUID": "cbab232b-5c62-4df8-867b-018a2e496cd4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "349",
+    "Filename": "danjuma-the-saddist",
+    "Name": "danjuma-the-saddist",
+    "Description": "Danjuma is a grumpy man no one likes to associate with him.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: sky blue; teeth: none; clothing:purple agbada; accessories: neck beads; expression: excited; strength: outspoken; weakness: boring;",
+    "UUID": "5a42af57-186e-425b-b6b1-f72bda4911ef"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "350",
+    "Filename": "chinedu-the-farmer",
+    "Name": "chinedu the farmer",
+    "Description": "A hardworking farmer who has 6 boys who help out on the farm.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: black; teeth: brown; clothing: one sided gown; accessories: none; expression: blushy; strength: easily loved; weakness: get angry easily;",
+    "UUID": "9e8a55d7-0d8d-465d-a628-08ddd387a2c6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "351",
+    "Filename": "kola-the-baldguy",
+    "Name": "kola the baldguy",
+    "Description": "Kola is every girls dream man because of his hair style.",
+    "Gender": "Male",
+    "attributes": "hair: low cut; eyes: mouse eyes; teeth: none; clothing: gbariye style; accessories: nose mask; expression: unhappy; strength: good eyes for details; weakness: sluggish;",
+    "UUID": "c32f1757-da9c-49e8-bd79-510a42b6971a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "352",
+    "Filename": "bola-the-bosslady",
+    "Name": "bola the bosslady",
+    "Description": "Bola commands boys and chill with men.",
+    "Gender": "Female",
+    "attributes": "hair: low cut; eyes: brown; teeth: none; clothing: short orange gown; accessories: nose mask; expression: none; strength: industrious; weaknes:spend lavishly;",
+    "UUID": "09ff910d-a2be-49d5-8b27-b9378458701c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "353",
+    "Filename": "kunle-the-alienguy",
+    "Name": "kunle the alienguy",
+    "Description": "Kunle is special and easily get noticed even in the midst of crowd.",
+    "Gender": "Male",
+    "attributes": "hair: green punk; eyes: green; teeth: none; clothing: purple agbada; accessories: purple beads; expression: unbothered; strength: very energetic; weaknes:eaaily give in",
+    "UUID": "dea2f5d8-e3ba-4d3f-9a17-0a7edfd0c100"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "354",
+    "Filename": "segun-the-sharp",
+    "Name": "segun the sharp",
+    "Description": "Segun drives with caution and people love him for that.",
+    "Gender": "Male",
+    "attributes": "hair: green punk; eyes: black ; teeth: none; clothing: orange buba; accessories: nose mask; expression: bitchy; strength: team player; weaknes: none;",
+    "UUID": "f9159a9c-f48d-4aee-bcc1-63c86209f806"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "355",
+    "Filename": "ola-the-hardguy",
+    "Name": "ola the hardguy",
+    "Description": "Ola may be feared but he is such a coolheaded champ.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: closed eyes; teeth: none; clothing: purple buba; accessories: none; expression: sick; strength: quick recovery power; weaknes: get ill frequently;",
+    "UUID": "a814fc77-bdfa-4e50-8ba8-3e4e4bcfb3c0"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "356",
+    "Filename": "emeka-the-chief",
+    "Name": "emeka the chief",
+    "Description": "Crowd are always at Emeka's house because of his selflessness.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: closed eyes; teeth: none; clothing: pakaja attire; accessories: none; expression: bossing; strength: easily comman respect; weaknes: not a ladies man;",
+    "UUID": "195e89c8-0b6f-43ad-9a2c-d20f03439e96"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "357",
+    "Filename": "ugochukwu-the-celeb",
+    "Name": "ugochukwu the celeb",
+    "Description": "Ugochukwu is an online celebrity with many followers on social media.",
+    "Gender": "Male",
+    "attributes": "hair: white blode; eyes: closed eyes; teeth: closed teeth; clothing: black gown; accessories: gold shades; expression: bitchy; strength: enterprising; weaknes: too emotional;",
+    "UUID": "74775cda-cff4-4d21-8819-693127598eca"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "358",
+    "Filename": "adekunle-the-yorubademon",
+    "Name": "adekunle the yoruba demon",
+    "Description": "He might be every woman's man but faithful and loyal to one.",
+    "Gender": "Male",
+    "attributes": "hair: gobi cap; eyes: closed eyes; teeth: closed teeth; clothing: ghana dansiki; accessories: gold shades; expression: owanbe mood; strength: from a walthy home; weaknes: disrespectful;",
+    "UUID": "5c98c2d8-3144-4e08-8a0f-9b8d7e4f5aa7"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "359",
+    "Filename": "favour-the-fashionista",
+    "Name": "favour the fashionista",
+    "Description": "Combining dresses is not a problem for Favour.",
+    "Gender": "Female",
+    "attributes": "hair: black ghana weaving; eyes: cat eyes; teeth: none; clothing: senegalese blowse; accessories: gold shades; expression: party rider; strength: smart; weaknes: lazy;",
+    "UUID": "19fc15c3-80fe-4d45-a2fe-be8f087d57c4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "360",
+    "Filename": "jane-the-slayqueen",
+    "Name": "jane the slayqueen",
+    "Description": "Jane is always found in the midst of men and loves partying.",
+    "Gender": "Female",
+    "attributes": "hair: long grey braids; eyes: closed; teeth: black lips; clothing: black short gown; accessories: gold shades; expression: happy; strength:very intelligent; weaknes: have mood swings easily;",
+    "UUID": "74775cda-cff4-4d21-8819-693127598eca"
+  },
+  {
+    "TEAM NAMES": "TEAM VBELT",
+    "Series Number": "361",
+    "Filename": "osas-the-ceo",
+    "Name": "osas the ceo",
+    "Description": "Meet Osas; a Gen-Z CEO with the British accent.",
+    "Gender": "Female",
+    "attributes": "hair: purple dreadlocks;  eyes: none; teeth: none; clothing: danshiki;  accessory: gold glasses; expression: none; strength: none; weakness: none;",
+    "UUID": "b10f7e42-4778-49db-820b-dabbad75504a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "362",
+    "Filename": "nneka-the-rainbow babe",
+    "Name": "nneka the rainbow babe",
+    "Description": "Nneka; the happy rainbow babe with the vibes.",
+    "Gender": "Female",
+    "attributes": "hair: pink;  eyes: none; teeth: none; clothing: blue and black bichrome; accessory: gold glasses; expression: none; strength: none; weakness: none;",
+    "UUID": "e7e20ab8-03e0-4e0a-80aa-6e193f84426e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "363",
+    "Filename": "temitope-the-spoilt girl",
+    "Name": "temitope the spoilt girl",
+    "Description": "Temitope; our favourite daddy's girl.",
+    "Gender": "Female",
+    "attributes": "hair: none; eyes: none; teeth: vampire teeth; clothing: right one-shoulder wax print; accessory: gold glasses; expression: none; strength: none; weakness: none;",
+    "UUID": "10cbcbcb-754e-4175-b85d-d0c7eafa16a2"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "364",
+    "Filename": "bekeh-the-party animal",
+    "Name": "bekeh the party animal",
+    "Description": "Baby Bekeh is life of the party that goes home with your charger.",
+    "Gender": "Female",
+    "attributes": "hair: dark brown;  eyes: none; teeth: none; clothing: left one-shoulder wax print; accessory: gold glasses; expression: none; strength: none; weakness: none;",
+    "UUID": "f0558235-3043-46e5-b26c-5bde83cc67fb"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "365",
+    "Filename": "nana-the-tech lady",
+    "Name": "nana the tech lady",
+    "Description": "Nana; the tech madam that doubles as Kumasi Adele in her bathroom every morning.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: none; teeth: none; clothing: print kente;  accessory: gold glasses; expression: none; strength: none; weakness: none;",
+    "UUID": "e0858913-7050-4c4a-a2a0-442a88463334"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "366",
+    "Filename": "rofiat-the-marketer",
+    "Name": "rofiat the marketer",
+    "Description": "Rofiat; the distressed marketing intern.",
+    "Gender": "Female",
+    "attributes": "hair: purple dreadlocks; eyes: brown; teeth: none; clothing: danshiki; accessories: none; expression: none; strength: none; weakness: none;",
+    "UUID": "1e4d9bda-f6f9-4e7a-9381-bee4b074b56d"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "367",
+    "Filename": "zarifa-the-righteous",
+    "Name": "zarifa the righteous",
+    "Description": "Meet Zarifa; a proper baddie for Christ.",
+    "Gender": "Female",
+    "attributes": "hair: pink; eyes: blue; teeth: none; clothing: v-neck original kente; accessories: none;  expression: none; strength: none; weakness: none;",
+    "UUID": "c6955d16-c343-46bc-9bed-c069ea8cc65a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "368",
+    "Filename": "modinat-the-troublesome",
+    "Name": "modinat the troublesome",
+    "Description": "Modinat; The queen of gbas gbos.",
+    "Gender": "Female",
+    "attributes": "hair: long maroon hair; eye: none; teeth: vampire teeth; clothing: right one-shoulder wax print; accessory: brown glasses; expression: none; strength: none; weakness: none;",
+    "UUID": "49eb44e8-1117-463b-b7b3-1bcea4258362"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "369",
+    "Filename": "amaka-our-mummy-g.o",
+    "Name": "amaka our mummy g.o",
+    "Description": "Here's Amaka; our one and only mummy G.O who's been to hell and back.",
+    "Gender": "Female",
+    "attributes": "hair: dark brown; eyes: blue; teeth: none; clothing: blue v-neck wax print; accessories: none; expression: none; strength: none; weakness: none;",
+    "UUID": "853edc40-0f9d-40c5-ba78-46067dfd7f68"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "370",
+    "Filename": "mawusi-the-patient",
+    "Name": "mawusi the patient",
+    "Description": "Meet Mawusi; the sweet sister waiting for her Canadian bobo.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: blue; teeth: none; clothing: print kente; accessory: beret; expression: none; strength: none; weakness: none;",
+    "UUID": "ca9ddc30-141a-493d-851b-71d34f599641"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "371",
+    "Filename": "nesta-the-difficult",
+    "Name": "nesta the difficult",
+    "Description": "Meet Nesta;the National Chairlady; (SAN)Shege Administrators of Nigeria.",
+    "Gender": "Female",
+    "attributes": "hair: double puffy hair; eyes: brown; teeth: none; clothing: bow neck wax print; accessory: hair bands; expression: none; strength: none; weakness: none;",
+    "UUID": "fc3b7ca7-efdb-45b2-b7c9-e69107484a43"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "372",
+    "Filename": "adaora-the-choir mistress",
+    "Name": "adaora the choir mistress",
+    "Description": "Adaora; our able choir mistress that will take your boyfriend for vanishing.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: brown; teeth: none; clothing: none; accessory: choker necklace; expression: none; strength: none; weakness: none;",
+    "UUID": "df944505-da1a-424e-88aa-b9d365bd2775"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "373",
+    "Filename": "busayo-the-husband snatcher",
+    "Name": "busayo the husband snatcher",
+    "Description": "Miss Busayo; can transplant your husband with the blink of her eyes.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: brown; teeth: none; clothing: none; accessories: none; expression: none; strength: none; weakness: none;",
+    "UUID": "73c8d935-4a71-41d2-a1de-066ae8d548e6"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "374",
+    "Filename": "wangari-the-waitress",
+    "Name": "wangari the waitress",
+    "Description": "Wangari; the aspiring musician that doubles as a waitress.",
+    "Gender": "Female",
+    "attributes": "hair: purple dreadlocks; eyes: brown eyes; teeth: none; clothing: none; accessory: purple earrings; expression: none; strength: none; weakness: none;",
+    "UUID": "4bd7a15b-cc66-4e2d-8fdb-d550f2dd645c"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "375",
+    "Filename": "charlene-the-shy lady",
+    "Name": "charlene the shy lady",
+    "Description": "Meet Charlene; the shy sweetheart next door.",
+    "Gender": "Female",
+    "attributes": "hair: brown afro; eyes: brown; teeth: none; clothing: black dress; accessories: none; expression: none; strength: none; weakness: none;",
+    "UUID": "36539b84-ada0-43cb-92d4-30596e07a39a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "376",
+    "Filename": "addae-the-unretired",
+    "Name": "addae the unretired",
+    "Description": "Mummy Addae; the hot grandma that has refused to retire.",
+    "Gender": "Female",
+    "attributes": "hair: brown; eyes: brown; teeth: none; clothing: danshiki; accessory: choker necklace; expression: none; strength: none; weakness: none;",
+    "UUID": "ced7b53c-73de-4fc7-a652-2b17ebfe68c9"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "377",
+    "Filename": "abena-the-slay queen",
+    "Name": "abena the slay queen",
+    "Description": "Abena; the gang's slay queen.",
+    "Gender": "Female",
+    "attributes": "hair: long brown braids; eyes: squinting; teeth: none; clothing: v-neck original kente; accessories: none; expression: none; strength: none; weakness: none;",
+    "UUID": "1e4728e1-3e45-4972-9755-4a38e784ff91"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "378",
+    "Filename": "gasira-the-violence mama",
+    "Name": "gasira the violence mama",
+    "Description": "Sister Gasira; wipes people Oraimo cord for a living.",
+    "Gender": "Female",
+    "attributes": "hair: brown bun; eyes: none; teeth: vampire teeth; clothing: right one-shoulder wax print; accessories: none; expression: none; strength: none; weakness: none;",
+    "UUID": "ea72337f-658f-4198-9ad6-39bc6212c20d"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "379",
+    "Filename": "salamatou-the-exchange student",
+    "Name": "salamatou the exchange student",
+    "Description": "Salamatou; an Ivorian exchange student who's in love with amala.",
+    "Gender": "Female",
+    "attributes": "hair: black; eyes: squinted; teeth: none; cothing: none;  accessory: beret; expression: none; strength: none; weakness: none;",
+    "UUID": "0e216fd1-d96a-4e3c-a59b-c807f772c5b3"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "380",
+    "Filename": "nguyen-the-foreigner",
+    "Name": "nguyen the foreigner",
+    "Description": "Meet Nguyen; the Asian aunt that's addicted to waakaye.",
+    "Gender": "Female",
+    "attributes": "hair: dark brown; eyes: squinted; teeth: none; clothing: print kente; accessories: none; expression: none; strength: none; weakness: none;",
+    "UUID": "0381301b-b5a3-42c1-9f73-2c43c0b8493f"
+  },
+  {
+    "TEAM NAMES": "TEAM AXE",
+    "Series Number": "381",
+    "Filename": "olofi-the-creator",
+    "Name": "olofi the creator",
+    "Description": "Olofi is the Yoruba creator god and messenger.",
+    "Gender": "Male",
+    "attributes": "hair:none; eyes: sky blue; teeth: none; clothing: none; accessories: facemask; expression: none; strength: creation god; weakness: love;",
+    "UUID": "26340cc4-e334-494e-a737-f2b4bb9bb22e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "382",
+    "Filename": "amadioha-the thunderer",
+    "Name": "amadioha the thunderer",
+    "Description": "Amadioha is the Igbo high god of thunder.",
+    "Gender": "Male",
+    "attributes": "hair: bald; eyes:shut; teeth: none; clothing: none; accessories: facemask; expression: none;strength: thunder bolt; weakness: palmoil;",
+    "UUID": "a0586a93-7aff-43cc-8282-d081b8d6fe90"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "383",
+    "Filename": "sango-the-striker",
+    "Name": "sango the striker",
+    "Description": "Sango is the yoruba diety of thunder.",
+    "Gender": "Male",
+    "attributes": "hair:shiny bald; eyes:none; teeth: none; clothing: asooke; accessories: none; expression: cunning; strength: thunder clap; weakness: mice;",
+    "UUID": "15e1775c-74fe-4a0b-b79c-49f6b730fa89"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "384",
+    "Filename": "agwu-the healer",
+    "Name": "agwu the healer",
+    "Description": "Agwu is the Igbo deity of health and divination.",
+    "Gender": "Male",
+    "attributes": "hair: shiny bald; eyes: aquamarine; teeth: none; clothing: none; accessories: none; expression: childlike; strength: healing; weakness: fire;",
+    "UUID": "311a6713-66c9-43ce-82d8-e3ce03a87a81"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "385",
+    "Filename": "tano-the swimmer",
+    "Name": "tano the swimmer",
+    "Description": "Tano is the master of the Ghana river Tano.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: squinted; teeth: none; clothing: yellow danshiki with patterns; accessories: none; expression: none; strength: none; weakness: none;",
+    "UUID": "9c34a73f-33ee-4577-aba8-0982c1656ba7"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "386",
+    "Filename": "anansi-the-trickster",
+    "Name": "anansi the trickster",
+    "Description": "Anansi is a trickster god of stories of the Ghana people.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: sleepy; teeth: none; clothing: black danshiki with patterns; accessories: facemask; expression: none; strength: illusions; weakness: mirrors;",
+    "UUID": "784f0f6b-4273-4a31-88d7-2455b96c9011"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "387",
+    "Filename": "nyame-all-powerful",
+    "Name": "nyame all powerful",
+    "Description": "Nyame is the omnipotent god of the Ghana region.",
+    "Gender": "Male",
+    "attributes": "hair:bald; eyes:black; teeth: none; expression: serious; clothing: yellow patterned danshiki with black lining; accessories: facemask; expression: none; strength: heatblast; weakness: cattles;",
+    "UUID": "f3af0bbd-0724-4696-89ff-ed67f63e6b4f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "388",
+    "Filename": "obatala-the-boss",
+    "Name": "obatala the boss",
+    "Description": "Obatala is the lord of all gods in the Yoruba land.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: pitch black; teeth: none; clothing: yellowish blue native; accessories: none; expression: mysterious; strength: oro ase; weakness: none;",
+    "UUID": "c447c120-830e-4543-9cb3-5917ba36bce8"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "389",
+    "Filename": "erinle-the-hunter",
+    "Name": "erinle the hunter",
+    "Description": "Erinle is a powerful hunter of the Yoruba land.",
+    "Gender": "Male",
+    "attributes": "hair: black; eyes: none; teeth: none; clothing: print kente; accessory: gold glasses; beret; expression: none; strength: none; weakness: none;",
+    "UUID": "dacbbb38-087d-4248-8085-13b619da0ef9"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "390",
+    "Filename": "ogun-iron-bender",
+    "Name": "ogun iron bender",
+    "Description": "Ogun is the Yoruba God of iron and metal work.",
+    "Gender": "Male",
+    "attributes": "hair: shiny bald; eyes: none; teeth: none; clothing: whitish blue ankara; accessories: none; expression: amused; strength: ironclaw; weakness: wood;",
+    "UUID": "94c607b3-791e-40df-bd93-50926f094143"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "391",
+    "Filename": "abosom-the-wise",
+    "Name": "abosom the wise",
+    "Description": "Abosom is the goddess of wisdom and knowledge of the Ghana people.",
+    "Gender": "Female",
+    "attributes": "hair: fuzzy brown; eyes: none; teeth: none; clothing: patterned danshiki;  accessories: glasses and pipe; expression: baddie; strength: all knowing; weakness: ignorance;",
+    "UUID": "b3427836-627b-41e4-a2d0-c29473448343"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "392",
+    "Filename": "oya-the-violent",
+    "Name": "oya the violent",
+    "Description": "Oya is the goddess of violent storms and winds of the Yoruba people.",
+    "Gender": "Female",
+    "attributes": "hair: purple braids; eyes: none; teeth: none; clothing: darkish blue buba; accessories: glasses; expression: bitchy; strength: seduction; weakness: dirt;",
+    "UUID": "22aaebe4-4659-44de-ab3d-c4dae11fe9f5"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "393",
+    "Filename": "agbala-the-stylish",
+    "Name": "agbala the stylish",
+    "Description": "Agbala is the stylish goddess of the future for the Igbo region.",
+    "Gender": "Female",
+    "attributes": "hair: black knob; eyes: none; teeth: none; clothing: patterned kente; accessories: berret and glasses and gum; expression: unbothered; stength: foresight; weakness: wine;",
+    "UUID": "ca720bf9-5e47-4421-b38f-bc62162ae99e"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "394",
+    "Filename": "njoku-ji-the-farmer",
+    "Name": "njoku ji the farmer",
+    "Description": "Njoku-ji is the goddess of new yam of the Igbo people.",
+    "Gender": "Female",
+    "attributes": "hair: light brown cornrows; eyes: none; teeth: none; clothing: patterned isiagu;  accessories: glasses; expression: blank; strength: none; weakness: none;",
+    "UUID": "3b795bad-91b4-4d0e-8ed8-bccbb226fc55"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "395",
+    "Filename": "akonadi-the-just",
+    "Name": "akonadi the just",
+    "Description": "Akonadi is the goddess of justice and prophesies of the Ghana people.",
+    "Gender": "Female",
+    "attributes": "hair: brown wavy; eyes: none; teeth: vampiric; clothing: yellow patterned kento; accessories: glasses; strength: scale of justice; weakness: anansi;",
+    "UUID": "2aebd094-3be5-4773-a7a0-361f6332a7d4"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "396",
+    "Filename": "onyame-the-beautiful",
+    "Name": "onyame the beautiful",
+    "Description": "Onyame is the goddess of the moon of the ghana region.",
+    "Gender": "Female",
+    "attributes": "hair: wavy brown curls; eyes: aquamarine; teeth: none; clothing: drum patterned danshiki; accessories: earrings; expression: none; strength: moonbeam; weakness: erinle;",
+    "UUID": "fb148f97-d309-45a4-b902-4e066ca13f96"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "397",
+    "Filename": "ibeji-the-balancer",
+    "Name": "ibeji the balancer",
+    "Description": "Ibeji is the goddess of balance and twin of the Yoruba people.",
+    "Gender": "Female",
+    "attributes": "hair: purple bun; eyes: midnight black; teeth: vampiric; clothing: purpulish black buba; accessories: berret; expression: scary; strength: hammer of justice; weakness: oya;",
+    "UUID": "7b210c03-5446-462d-980e-c73dbbc1e386"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "398",
+    "Filename": "asase-ya-the-loving",
+    "Name": "asase ya the loving",
+    "Description": "Asase-ya is the goddess of fertility and love of the Ghanaian people.",
+    "Gender": "Female",
+    "attributes": "hair: brown curly bun; eyes: deep brown; teeth: none; clothing: multicoloured kento; accessories: pipe; expression: amused; strength: lovefist; weakness: easily deceived;",
+    "UUID": "80b51092-3fbc-4d0c-8518-fc461ccb6c80"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "399",
+    "Filename": "yemoja-the-cool",
+    "Name": "yemoja the cool",
+    "Description": "Yemoja is the stylish yoruba goddess of the rivers.",
+    "Gender": "Female",
+    "attributes": "hair: orange pigtail; eyes: dark brown; teeth: none; clothing: black patterned kento; accessories: hair clip; expression: dismayed; strength: none; weakness: none;",
+    "UUID": "1693b44d-96cf-4c2d-89be-9f4219c28447"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "400",
+    "Filename": "yemaya-the-slow",
+    "Name": "yemaya the slow",
+    "Description": "Yemaya is the Ghana goddess of rivers and waters.",
+    "Gender": "Female",
+    "attributes": "hair: orange afro; eyes: brown; teeth: none; clothing: yellow patterned kento; accessories: none; expression: hopeful; strength: none; weakness: none;",
+    "UUID": "9609d0f4-d9d3-4cff-aa06-a9c459fefa39"
+  },
+  {
+    "TEAM NAMES": "TEAM BOOT",
+    "Series Number": "401",
+    "Filename": "smirky-becky",
+    "Name": "smirky becky",
+    "Description": "Becky ends every statement she makes with a smirk.",
+    "Gender": "Female",
+    "attributes": "hair: black low cut; eyes: brown; teeth: none; clothing: animal print dress; accessories: ankara beret; expression: smirking; strength: curiosity; weakness: short sighted;",
+    "UUID": "87bcc41f-eb3e-4ba2-9645-223c949a9b50"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "402",
+    "Filename": "ankara-scarlett",
+    "Name": "ankara scarlett",
+    "Description": "Scarlett is a tailor at yaba market and she loves what she does.",
+    "Gender": "Female",
+    "attributes": "hair: orange bun; eyes: closed; teeth: none; clothing: ankara mixed with black material dress; accessories: none; expression: unethusiastic; strength: fashion; weakness: timidity;",
+    "UUID": "66d0149f-5f2a-4ded-8e6b-9bd7d7631c39"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "403",
+    "Filename": "sea-rastafaria",
+    "Name": "sea rastafaria",
+    "Description": "Ronke is the ghetto goddess that nobody wants to mess with; stay clear.",
+    "Gender": "Female",
+    "attributes": "hair: purple dreadlocks; eyes: closed; teeth: none; clothing: blue one hand dress; accessories: none; expression: unfazed; strength: intellect; weakness: impatient;",
+    "UUID": "d1556c97-9075-49fc-8bde-1826bfc2dbe1"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "404",
+    "Filename": "pretty-betty",
+    "Name": "pretty betty",
+    "Description": "Betty is very proud of her beauty and does not hesitate to flaunt it.",
+    "Gender": "Female",
+    "attributes": "hair: orange bob; eyes: closed; teeth: none; clothing: orange one hand ankara print; accessories: none; expression: stoic; strength: beauty; weakness: pride;",
+    "UUID": "6a4f5b7c-914d-42c5-8e5f-d1c34ca48886"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "405",
+    "Filename": "lola-medusa",
+    "Name": "lola medusa",
+    "Description": "Lola is the head maketer at her firm and she is the best at negotiating.",
+    "Gender": "Female",
+    "attributes": "hair: long red braids; eyes: closed; teeth: none; clothing: geometric ankara print; accessories: none; expression: unfazed; strength: conviction; weakness: narcissism;",
+    "UUID": "32ec57f7-8272-4671-ad2d-db3dff99fe9f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "406",
+    "Filename": "bukola-nosend",
+    "Name": "bukola nosend",
+    "Description": "Bukola is friends with many but always get moody.",
+    "Gender": "Female",
+    "attributes": "hair: brunette bob; eyes: brown; teeth: none; clothing: blue and yellow ankara print dress; accessories: none; expression: moody; strength: ideation; weakness: procrastination;",
+    "UUID": "59d19b13-09e2-412e-a669-df020e03ae10"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "407",
+    "Filename": "burna-morgan",
+    "Name": "burna morgan",
+    "Description": "Morgan paints the town red with her red hair.",
+    "Gender": "Female",
+    "attributes": "hair: two brunette buns; eyes: brown; teeth: none; clothing: ankara  dungarees; accessories: tobacco pipe; expression: none; strength: fighting; weakness: bossy;",
+    "UUID": "d08af477-de20-4780-8449-46b87840b9fa"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "408",
+    "Filename": "afro-star",
+    "Name": "afro star",
+    "Description": "Bimbo is an afro star with great affluence.",
+    "Gender": "Female",
+    "attributes": "hair: orange afro; eyes: brown; teeth: none; clothing: ghana kente dress; accessories: none; expression: inspired; strength: money; weakness: aggresive;",
+    "UUID": "40743b16-ae12-4b4a-989c-e5fbf1e2e0ca"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "409",
+    "Filename": "fiesty-sandra",
+    "Name": "fiesty sandra",
+    "Description": "Sandra is a social animal; correct owambe ambassador.",
+    "Gender": "Female",
+    "attributes": "hair: brown bun; eyes: brown; teeth: none; clothing: yellow ankara dress; accessories: purple bubblegum; expression: none; strength: relating with people; weakness: short attention span;",
+    "UUID": "d875aa6c-3e4a-4450-b09c-e9f1cdcc3947"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "410",
+    "Filename": "sister-nkechi-sabi",
+    "Name": "sister nkechi sabi",
+    "Description": "Nkechi is the true definition of amebo; always in peoples business.",
+    "Gender": "Female",
+    "attributes": "hair: black low cut; eyes: brown; teeth: none; clothing: yellow patterned ankara dress; accessories: ankara beret; expression: none; strength: amebo; weakness: keeping quiet;",
+    "UUID": "a728a380-1d33-4080-841d-80b041474d8f"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "411",
+    "Filename": "unfriendly-gina",
+    "Name": "unfriendly gina",
+    "Description": "Gina is an angry one; she has no friends but has a lot of money.",
+    "Gender": "Female",
+    "attributes": "hair: orange bun; eyes: brown; teeth: none; clothing: animal print dress; accessories: none; expression: stoic; strength: anger; weakness: peace;",
+    "UUID": "dd30a327-8a74-40a5-8207-19a790508ccc"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "412",
+    "Filename": "dada-ganster",
+    "Name": "dada ganster",
+    "Description": "Zoe got her nickname dada gangster because of her beautiful dreadlocks; she is a sweet one and is ever ready to help others.",
+    "Gender": "Female",
+    "attributes": "hair: purple dreadlock; eyes: brown; teeth: vampiric; clothing: ankara mixed with black material dress; accessories: none; expression: annoyed; strength: finding trouble; weakness: impulsive;",
+    "UUID": "e1a43f65-aad2-4385-ac5e-bc159c6e0f2a"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "413",
+    "Filename": "idoncare-linda",
+    "Name": "idoncare linda",
+    "Description": "Linda is a carefree woman that pays little attention to whatever is happening round her.",
+    "Gender": "Female",
+    "attributes": "hair: orange bob; eyes: brown; teeth: none; clothing: blue one hand dress; accessories: none; expression: mischievous; strength: instigating arguments; weakness: needs to be right;",
+    "UUID": "ed04b47c-ae98-4db2-b71b-04d7bb976d45"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "414",
+    "Filename": "doubting-vivian",
+    "Name": "doubting vivian",
+    "Description": "Vivian just like the thomas in the bible; she doubts all.",
+    "Gender": "Female",
+    "attributes": "hair: long red braid; eyes: brown; teeth: none; clothing: red ankara one hand dress; accessories: none; expression: pissed; strength: logic; weakness: trust issues;",
+    "UUID": "a0282797-44ef-4bfb-a701-e4ed5e727d63"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "415",
+    "Filename": "simbi-side-eyed",
+    "Name": "simbi side eyed",
+    "Description": "Simbi is reserved but doesn't allow anyone intimidate her.",
+    "Gender": "Female",
+    "attributes": "hair: two orange buns; eyes: brown; teeth: none; clothing: geometric ankara dress; accessories: none; expression: annoyed; strength: communication; weakness: stubborn;",
+    "UUID": "1f99104c-e98b-4c9a-9891-00a481e86008"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "416",
+    "Filename": "bambi-tekno",
+    "Name": "bambi tekno",
+    "Description": "Bambi is the dancer of the team; anytime she hears a beat shes on her feet.",
+    "Gender": "Female",
+    "attributes": "hair: brown low buns; eyes: none; teeth: none; clothing: brown ankara dress;  accessories: yellow sunglasses; expression: cool; strength: dancing; weakness: procrastination;",
+    "UUID": "95ff5e2c-1ff2-4d58-890b-de0f39f9d8ce"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "417",
+    "Filename": "saka-portable",
+    "Name": "saka portable",
+    "Description": "Saka is forever convinced that his toothless smile is the icing on his cake.",
+    "Gender": "Male",
+    "attributes": "hair: none; eyes: none; teeth: none; clothing: black and blue shirt; accessories: purple cap and yellow sunglasses; expression: none; strength: confidence; weakness: stubborn;",
+    "UUID": "bd98f74f-e42e-494e-8298-3183555ca666"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "418",
+    "Filename": "king-of-boys",
+    "Name": "king of boys",
+    "Description": "Busayo has her way of convincing people to do things her way.",
+    "Gender": "Female",
+    "attributes": "hair: black buns; eyes: none; teeth: none; clothing: one hand patterned ankara dress; accessories: tobacco pipe and yellow sunglasses; expression: none; strength: confidence  weakness: always inconsiderate;",
+    "UUID": "a650e79c-f964-4eb1-aa89-f9c1dbdede76"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "419",
+    "Filename": "funky-alte-pop",
+    "Name": "funky alte pop",
+    "Description": "Funke is always the life of every party; strong gen z advocate.",
+    "Gender": "Female",
+    "attributes": "hair: two red buns; eyes: none; teeth: none; clothing: one hand patterned ankara dress; accessories: yellow sun shades; expression: cool; strength: music; weakess: selfish;",
+    "UUID": "b6753a8b-6127-4e97-812b-99e465791ba3"
+  },
+  {
+    "TEAM NAMES": "",
+    "Series Number": "420",
+    "Filename": "madame-ngozi",
+    "Name": "madame ngozi",
+    "Description": "Ngozi make heads turn with her beautiful collection of materials from all over Africa.",
+    "Gender": "Female",
+    "attributes": "hair: red afro; eyes: none; teeth: none; clothing: ghana kente dress; accessories: yellow sunglasses; expression: pissed; strength: money; weakness: pride;",
+    "UUID": "7ecdbb1d-9a89-4136-b240-499051836979"
+  }
+]
